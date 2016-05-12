@@ -40,6 +40,12 @@ cambridge_school <- c("Prynne, J. H. (Jeremy Halvard)", "James, John", "Mulford,
 black_mountain <- c("Olson, Charles", "Creeley, Robert", "Duncan, Robert", "Dorn, Edward", "Oppenheimer, Joel", "Wieners, John", "Williams, Jonathan", "Blackburn, Paul", "Eigner, Larry", "Levertov, Denise")
 language <- c("Andrews, Bruce", "Bernstein, Charles", "Hejinian, Lyn", "Watten, Barrett", "Silliman, Ron", "Harryman, Carla")
 
+mov <- c()
+ny <- c()
+cam <- c()
+bm <- c()
+lp <- c()
+
 # general community detection algorithm
 algo <- function(graph, cutoff, algorithm, step_limit, lower_limit) {
     wei <- delete.edges(graph, which(E(graph)$weight < cutoff))
