@@ -1,7 +1,6 @@
 library(shiny)
 library(igraph)
 library(networkD3)
-source("igraph_to_networkD3_mod.R")
 
 d <- read.csv("edges.csv")
 g <- graph.data.frame(d, directed = FALSE)
@@ -35,6 +34,6 @@ function(input, output) {
 
     output$display <- renderForceNetwork({
         validate(need(try(graph()$nodes != 0), "No connections found! Try increasing the birthdate range or decreasing the minimum connection weight."))
-        forceNetwork(Links = graph()$links, Nodes = graph()$nodes, Source = "source", Target = "target", NodeID = "name", Group = "group", zoom = TRUE, bounded = TRUE, fontSize = 30, opacity = 1, charge = charge(), linkWidth = JS("function(d) { return Math.sqrt(d.value)/3; }"), colourScale = JS("d3.scale.category10()"))
+        forceNetwork(Links = graph()$links, Nodes = graph()$nodes, Source = "source", Target = "target", NodeID = "name", Group = "group", zoom = TRUE, bounded = input$boundaries, fontSize = 30, opacity = 1, charge = charge(), linkWidth = JS("function(d) { return Math.sqrt(d.value)/3; }"), colourScale = JS("d3.scale.category20c()"))
     })
 }
