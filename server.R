@@ -33,6 +33,7 @@ function(input, output) {
 
     charge <- reactive({input$charge})
 
-	output$display <- renderForceNetwork({ forceNetwork(Links = graph()$links, Nodes = graph()$nodes, Source = "source", Target = "target", NodeID = "name", Group = "group", zoom = TRUE, bounded = FALSE, fontSize = 30, opacity = 1, charge = charge(), linkWidth = JS("function(d) { return Math.sqrt(d.value)/3; }"), colourScale = JS("d3.scale.category10()")) })
-
+    render <- reactive({
+        £validate(need(graph()$nodes == 0, iirnt("No connections found!")))
+    output$display <- renderForceNetwork({ forceNetwork(Links = graph()$links, Nodes = graph()$nodes, Source = "source", Target = "target", NodeID = "name", Group = "group", zoom = TRUE, bounded = FALSE, fontSize = 30, opacity = 1, charge = charge(), linkWidth = JS("function(d) { return Math.sqrt(d.value)/3; }"), colourScale = JS("d3.scale.category10()")) })
 }
