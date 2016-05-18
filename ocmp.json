@@ -1,3 +1,6889 @@
+{
+elements:
+{
+nodes:
+[
+ {
+   "id":1,
+   "birth":1881,
+   "label":"Abercrombie, Lascelles"
+ },
+ {
+   "id":2,
+   "birth":1923,
+   "label":"Abse, Dannie"
+ },
+ {
+   "id":3,
+   "birth":1930,
+   "label":"Achebe, Chinua"
+ },
+ {
+   "id":4,
+   "birth":1948,
+   "label":"Ackerman, Diane"
+ },
+ {
+   "id":5,
+   "birth":1923,
+   "label":"Acorn, Milton"
+ },
+ {
+   "id":7,
+   "birth":1899,
+   "label":"Adams, Léonie"
+ },
+ {
+   "id":8,
+   "birth":1943,
+   "label":"Adamson, Robert"
+ },
+ {
+   "id":9,
+   "birth":1934,
+   "label":"Adcock, Fleur"
+ },
+ {
+   "id":11,
+   "birth":1949,
+   "label":"Agard, John"
+ },
+ {
+   "id":15,
+   "birth":1947,
+   "label":"Ai"
+ },
+ {
+   "id":16,
+   "birth":1942,
+   "label":"Aidoo, Ama Ata"
+ },
+ {
+   "id":17,
+   "birth":1889,
+   "label":"Aiken, Conrad"
+ },
+ {
+   "id":18,
+   "birth":1892,
+   "label":"Aldington, Richard"
+ },
+ {
+   "id":19,
+   "birth":1949,
+   "label":"Ali, Agha Shahid"
+ },
+ {
+   "id":20,
+   "birth":1939,
+   "label":"Allen, Dick"
+ },
+ {
+   "id":21,
+   "birth":1921,
+   "label":"Allison, Drummond"
+ },
+ {
+   "id":22,
+   "birth":1912,
+   "label":"Allott, Kenneth"
+ },
+ {
+   "id":23,
+   "birth":1947,
+   "label":"Alurista"
+ },
+ {
+   "id":24,
+   "birth":1929,
+   "label":"Alvarez, A."
+ },
+ {
+   "id":26,
+   "birth":1922,
+   "label":"Amis, Kingsley"
+ },
+ {
+   "id":27,
+   "birth":1926,
+   "label":"Ammons, A. R."
+ },
+ {
+   "id":28,
+   "birth":1883,
+   "label":"Anderson, Ethel"
+ },
+ {
+   "id":29,
+   "birth":1940,
+   "label":"Anderson, Jon"
+ },
+ {
+   "id":30,
+   "birth":1915,
+   "label":"Anderson, Patrick"
+ },
+ {
+   "id":32,
+   "birth":1928,
+   "label":"Angelou, Maya"
+ },
+ {
+   "id":33,
+   "birth":1947,
+   "label":"Angira, Jared"
+ },
+ {
+   "id":35,
+   "birth":1922,
+   "label":"Ansen, Alan"
+ },
+ {
+   "id":37,
+   "birth":1947,
+   "label":"Anyidoho, Kofi"
+ },
+ {
+   "id":38,
+   "birth":1934,
+   "label":"Arasanayagam, Jean Solomons"
+ },
+ {
+   "id":39,
+   "birth":1963,
+   "label":"Armitage, Simon"
+ },
+ {
+   "id":40,
+   "birth":1924,
+   "label":"Arrowsmith, William"
+ },
+ {
+   "id":42,
+   "birth":1948,
+   "label":"Ash, John"
+ },
+ {
+   "id":43,
+   "birth":1927,
+   "label":"Ashbery, John"
+ },
+ {
+   "id":45,
+   "birth":1939,
+   "label":"Atwood, Margaret"
+ },
+ {
+   "id":46,
+   "birth":1907,
+   "label":"Auden, W. H."
+ },
+ {
+   "id":48,
+   "birth":1918,
+   "label":"Avison, Margaret"
+ },
+ {
+   "id":49,
+   "birth":1935,
+   "label":"Awoonor, Kofi"
+ },
+ {
+   "id":50,
+   "birth":1952,
+   "label":"Baca, Jimmy Santiago"
+ },
+ {
+   "id":52,
+   "birth":1905,
+   "label":"Baker, Howard"
+ },
+ {
+   "id":54,
+   "birth":1921,
+   "label":"Banning, Lex"
+ },
+ {
+   "id":55,
+   "birth":1934,
+   "label":"Baraka, Amiri Imamu"
+ },
+ {
+   "id":56,
+   "birth":1940,
+   "label":"Barbour, Douglas"
+ },
+ {
+   "id":57,
+   "birth":1913,
+   "label":"Barker, George"
+ },
+ {
+   "id":59,
+   "birth":1926,
+   "label":"Baxter, James K."
+ },
+ {
+   "id":61,
+   "birth":1928,
+   "label":"Beaver, (Victor) Bruce"
+ },
+ {
+   "id":62,
+   "birth":1906,
+   "label":"Beckett, Samuel"
+ },
+ {
+   "id":63,
+   "birth":1924,
+   "label":"Beer, Patricia"
+ },
+ {
+   "id":64,
+   "birth":1911,
+   "label":"Belitt, Ben"
+ },
+ {
+   "id":67,
+   "birth":1918,
+   "label":"Bell, Martin"
+ },
+ {
+   "id":68,
+   "birth":1937,
+   "label":"Bell, Marvin"
+ },
+ {
+   "id":70,
+   "birth":1899,
+   "label":"Bellerby, Frances"
+ },
+ {
+   "id":71,
+   "birth":1870,
+   "label":"Belloc, Hilaire"
+ },
+ {
+   "id":75,
+   "birth":1919,
+   "label":"Bennett, Louise"
+ },
+ {
+   "id":76,
+   "birth":1875,
+   "label":"Bentley, E. C. (Edward Clerihew)"
+ },
+ {
+   "id":77,
+   "birth":1934,
+   "label":"Berg, Stephen"
+ },
+ {
+   "id":79,
+   "birth":1921,
+   "label":"Berrigan, Daniel (J.)"
+ },
+ {
+   "id":80,
+   "birth":1934,
+   "label":"Berrigan, Ted"
+ },
+ {
+   "id":81,
+   "birth":1915,
+   "label":"Berry, Francis"
+ },
+ {
+   "id":82,
+   "birth":1924,
+   "label":"Berry, James"
+ },
+ {
+   "id":83,
+   "birth":1934,
+   "label":"Berry, Wendell"
+ },
+ {
+   "id":84,
+   "birth":1914,
+   "label":"Berryman, John"
+ },
+ {
+   "id":85,
+   "birth":1947,
+   "label":"Berssenbrugge, Mei-Mei"
+ },
+ {
+   "id":86,
+   "birth":1874,
+   "label":"Bethell, (Mary) Ursula"
+ },
+ {
+   "id":87,
+   "birth":1906,
+   "label":"Betjeman, Sir John"
+ },
+ {
+   "id":88,
+   "birth":1956,
+   "label":"Bhatt, Sujata"
+ },
+ {
+   "id":89,
+   "birth":1939,
+   "label":"Bidart, Frank"
+ },
+ {
+   "id":91,
+   "birth":1869,
+   "label":"Binyon, (Robert) Laurence"
+ },
+ {
+   "id":92,
+   "birth":1904,
+   "label":"Birney, (Alfred) Earle"
+ },
+ {
+   "id":93,
+   "birth":1911,
+   "label":"Bishop, Elizabeth"
+ },
+ {
+   "id":95,
+   "birth":1939,
+   "label":"bissett, bill"
+ },
+ {
+   "id":96,
+   "birth":1926,
+   "label":"Blackburn, Paul"
+ },
+ {
+   "id":99,
+   "birth":1904,
+   "label":"Blackmur, R. P. (Richard Palmer)"
+ },
+ {
+   "id":103,
+   "birth":1939,
+   "label":"Blessing, Richard"
+ },
+ {
+   "id":104,
+   "birth":1913,
+   "label":"Blight, John"
+ },
+ {
+   "id":106,
+   "birth":1949,
+   "label":"Blumenthal, Michael"
+ },
+ {
+   "id":107,
+   "birth":1896,
+   "label":"Blunden, Edmund"
+ },
+ {
+   "id":109,
+   "birth":1926,
+   "label":"Bly, Robert"
+ },
+ {
+   "id":111,
+   "birth":1897,
+   "label":"Bogan, Louise"
+ },
+ {
+   "id":112,
+   "birth":1944,
+   "label":"Boland, Eavan"
+ },
+ {
+   "id":115,
+   "birth":1925,
+   "label":"Booth, Philip"
+ },
+ {
+   "id":118,
+   "birth":1949,
+   "label":"Bottoms, David"
+ },
+ {
+   "id":119,
+   "birth":1906,
+   "label":"Bottrall, Ronald"
+ },
+ {
+   "id":120,
+   "birth":1935,
+   "label":"Bowering, George"
+ },
+ {
+   "id":121,
+   "birth":1949,
+   "label":"Bowering, Marilyn"
+ },
+ {
+   "id":122,
+   "birth":1924,
+   "label":"Bowers, Edgar"
+ },
+ {
+   "id":124,
+   "birth":1951,
+   "label":"Boyle, Charles"
+ },
+ {
+   "id":126,
+   "birth":1953,
+   "label":"Brackenbury, Alison"
+ },
+ {
+   "id":127,
+   "birth":1909,
+   "label":"Brasch, Charles"
+ },
+ {
+   "id":128,
+   "birth":1930,
+   "label":"Brathwaite, E. K."
+ },
+ {
+   "id":129,
+   "birth":1934,
+   "label":"Braun, Richard Emil"
+ },
+ {
+   "id":131,
+   "birth":1870,
+   "label":"Brennan, Christopher"
+ },
+ {
+   "id":132,
+   "birth":1928,
+   "label":"Brew, (O. H.) Kwesi"
+ },
+ {
+   "id":133,
+   "birth":1922,
+   "label":"Brewster, Elizabeth"
+ },
+ {
+   "id":134,
+   "birth":1844,
+   "label":"Bridges, Robert"
+ },
+ {
+   "id":135,
+   "birth":1946,
+   "label":"Bringhurst, Robert"
+ },
+ {
+   "id":136,
+   "birth":1928,
+   "label":"Brissenden, R. F."
+ },
+ {
+   "id":137,
+   "birth":1927,
+   "label":"Brock, Edwin"
+ },
+ {
+   "id":138,
+   "birth":1956,
+   "label":"Brock-Broido, Lucie"
+ },
+ {
+   "id":140,
+   "birth":1918,
+   "label":"Bronk, William"
+ },
+ {
+   "id":141,
+   "birth":1887,
+   "label":"Brooke, Rupert"
+ },
+ {
+   "id":142,
+   "birth":1917,
+   "label":"Brooks, Gwendolyn"
+ },
+ {
+   "id":143,
+   "birth":1948,
+   "label":"Brown, Pam(ela)"
+ },
+ {
+   "id":144,
+   "birth":1921,
+   "label":"Brown, George Mackay"
+ },
+ {
+   "id":146,
+   "birth":1901,
+   "label":"Brown, Sterling A."
+ },
+ {
+   "id":147,
+   "birth":1944,
+   "label":"Brown, Wayne"
+ },
+ {
+   "id":148,
+   "birth":1940,
+   "label":"Browne, Michael Dennis"
+ },
+ {
+   "id":152,
+   "birth":1925,
+   "label":"Buckley, Vincent"
+ },
+ {
+   "id":153,
+   "birth":1950,
+   "label":"Buckmaster, Charles"
+ },
+ {
+   "id":154,
+   "birth":1920,
+   "label":"Bukowski, Charles"
+ },
+ {
+   "id":155,
+   "birth":1900,
+   "label":"Bunting, Basil"
+ },
+ {
+   "id":156,
+   "birth":1897,
+   "label":"Burke, Kenneth"
+ },
+ {
+   "id":157,
+   "birth":1906,
+   "label":"Burnshaw, Stanley"
+ },
+ {
+   "id":158,
+   "birth":1955,
+   "label":"Burnside, John"
+ },
+ {
+   "id":159,
+   "birth":1918,
+   "label":"Butler, Guy"
+ },
+ {
+   "id":160,
+   "birth":1949,
+   "label":"Butlin, Ron"
+ },
+ {
+   "id":161,
+   "birth":1881,
+   "label":"Bynner, Witter"
+ },
+ {
+   "id":164,
+   "birth":1905,
+   "label":"Cameron, (John) Norman"
+ },
+ {
+   "id":165,
+   "birth":1925,
+   "label":"Campbell, Alistair"
+ },
+ {
+   "id":166,
+   "birth":1915,
+   "label":"Campbell, David"
+ },
+ {
+   "id":167,
+   "birth":1916,
+   "label":"Campbell, George"
+ },
+ {
+   "id":168,
+   "birth":1902,
+   "label":"Campbell, (Ignatius) Roy(ston) (Dunnachie)"
+ },
+ {
+   "id":171,
+   "birth":1921,
+   "label":"Carruth, Hayden"
+ },
+ {
+   "id":172,
+   "birth":1948,
+   "label":"Carson, Ciaran"
+ },
+ {
+   "id":173,
+   "birth":1927,
+   "label":"Carter, Martin"
+ },
+ {
+   "id":174,
+   "birth":1939,
+   "label":"Carver, Raymond"
+ },
+ {
+   "id":175,
+   "birth":1929,
+   "label":"Cassity, Turner"
+ },
+ {
+   "id":176,
+   "birth":1947,
+   "label":"Catalano, Gary"
+ },
+ {
+   "id":178,
+   "birth":1917,
+   "label":"Causley, Charles"
+ },
+ {
+   "id":180,
+   "birth":1954,
+   "label":"Cervantes, Lorna Dee"
+ },
+ {
+   "id":181,
+   "birth":1932,
+   "label":"Challis, Gordon"
+ },
+ {
+   "id":182,
+   "birth":1936,
+   "label":"Chappell, Fred"
+ },
+ {
+   "id":183,
+   "birth":1944,
+   "label":"Charles, Faustin"
+ },
+ {
+   "id":184,
+   "birth":1945,
+   "label":"Cheney-Coker, Syl"
+ },
+ {
+   "id":185,
+   "birth":1874,
+   "label":"Chesterton, G. K."
+ },
+ {
+   "id":186,
+   "birth":1945,
+   "label":"Chimombo, Steve"
+ },
+ {
+   "id":187,
+   "birth":1949,
+   "label":"Chipasula, Frank Mkalawile"
+ },
+ {
+   "id":188,
+   "birth":1938,
+   "label":"Chitre, Dilip Purushottam"
+ },
+ {
+   "id":189,
+   "birth":1951,
+   "label":"Christopher, Nicholas"
+ },
+ {
+   "id":190,
+   "birth":1942,
+   "label":"Chuilleanáin, Eiléan Ní"
+ },
+ {
+   "id":192,
+   "birth":1920,
+   "label":"Clampitt, Amy"
+ },
+ {
+   "id":193,
+   "birth":1941,
+   "label":"Clark, Tom"
+ },
+ {
+   "id":194,
+   "birth":1935,
+   "label":"Clark Bekederemo, J. P."
+ },
+ {
+   "id":195,
+   "birth":1896,
+   "label":"Clarke, Austin"
+ },
+ {
+   "id":196,
+   "birth":1937,
+   "label":"Clarke, Gillian"
+ },
+ {
+   "id":198,
+   "birth":1916,
+   "label":"Clemo, Jack"
+ },
+ {
+   "id":199,
+   "birth":1936,
+   "label":"Clifton, Lucille"
+ },
+ {
+   "id":200,
+   "birth":1926,
+   "label":"Clouts, Sydney David"
+ },
+ {
+   "id":202,
+   "birth":1945,
+   "label":"Colebatch, Hal Gibson Pateshall"
+ },
+ {
+   "id":204,
+   "birth":1928,
+   "label":"Coles, Don"
+ },
+ {
+   "id":205,
+   "birth":1881,
+   "label":"Colum, Padraic"
+ },
+ {
+   "id":209,
+   "birth":1936,
+   "label":"Conn, Stewart"
+ },
+ {
+   "id":210,
+   "birth":1930,
+   "label":"Connor, Tony"
+ },
+ {
+   "id":211,
+   "birth":1917,
+   "label":"Conquest, (George) Robert (Ackworth)"
+ },
+ {
+   "id":212,
+   "birth":1944,
+   "label":"Constantine, David"
+ },
+ {
+   "id":215,
+   "birth":1924,
+   "label":"Cooper, Jane"
+ },
+ {
+   "id":217,
+   "birth":1924,
+   "label":"Corman, Cid"
+ },
+ {
+   "id":218,
+   "birth":1943,
+   "label":"Corn, Alfred"
+ },
+ {
+   "id":219,
+   "birth":1886,
+   "label":"Cornford, Frances"
+ },
+ {
+   "id":220,
+   "birth":1915,
+   "label":"Cornford, (Rupert) John"
+ },
+ {
+   "id":221,
+   "birth":1930,
+   "label":"Corso, (Nunzio) Gregory"
+ },
+ {
+   "id":222,
+   "birth":1927,
+   "label":"Coulette, Henri"
+ },
+ {
+   "id":223,
+   "birth":1898,
+   "label":"Cowley, Malcolm"
+ },
+ {
+   "id":224,
+   "birth":1899,
+   "label":"Crane, (Harold) Hart"
+ },
+ {
+   "id":226,
+   "birth":1878,
+   "label":"Crapsey, Adelaide"
+ },
+ {
+   "id":227,
+   "birth":1944,
+   "label":"Crase, Douglas"
+ },
+ {
+   "id":228,
+   "birth":1959,
+   "label":"Crawford, Robert"
+ },
+ {
+   "id":229,
+   "birth":1926,
+   "label":"Creeley, Robert"
+ },
+ {
+   "id":230,
+   "birth":1949,
+   "label":"Cronin, Jeremy"
+ },
+ {
+   "id":231,
+   "birth":1948,
+   "label":"Crozier, Lorna"
+ },
+ {
+   "id":232,
+   "birth":1949,
+   "label":"Cruz, Victor Hernandez"
+ },
+ {
+   "id":233,
+   "birth":1903,
+   "label":"Cullen, Countee"
+ },
+ {
+   "id":234,
+   "birth":1932,
+   "label":"Cullinan, Patrick"
+ },
+ {
+   "id":235,
+   "birth":1894,
+   "label":"Cummings, E. E."
+ },
+ {
+   "id":236,
+   "birth":1911,
+   "label":"Cunningham, J. V."
+ },
+ {
+   "id":237,
+   "birth":1911,
+   "label":"Curnow, (Thomas) Allen (Munro)"
+ },
+ {
+   "id":238,
+   "birth":1946,
+   "label":"Curtis, Tony"
+ },
+ {
+   "id":239,
+   "birth":1945,
+   "label":"Dabydeen, Cyril"
+ },
+ {
+   "id":240,
+   "birth":1955,
+   "label":"Dabydeen, David"
+ },
+ {
+   "id":241,
+   "birth":1960,
+   "label":"D'Aguiar, Fred(erick)"
+ },
+ {
+   "id":242,
+   "birth":1938,
+   "label":"Dale, Peter (John)"
+ },
+ {
+   "id":243,
+   "birth":1919,
+   "label":"Dallas, Ruth"
+ },
+ {
+   "id":244,
+   "birth":1948,
+   "label":"Dangor, Achmat"
+ },
+ {
+   "id":245,
+   "birth":1937,
+   "label":"Daruwalla, Keki Nasserwanji"
+ },
+ {
+   "id":246,
+   "birth":1887,
+   "label":"Daryush, Elizabeth"
+ },
+ {
+   "id":247,
+   "birth":1934,
+   "label":"Das, Kamala"
+ },
+ {
+   "id":250,
+   "birth":1940,
+   "label":"Davey, Frank"
+ },
+ {
+   "id":251,
+   "birth":1893,
+   "label":"Davidson, Donald"
+ },
+ {
+   "id":253,
+   "birth":1922,
+   "label":"Davie, Donald"
+ },
+ {
+   "id":254,
+   "birth":1905,
+   "label":"Davies, Idris"
+ },
+ {
+   "id":255,
+   "birth":1871,
+   "label":"Davies, W. H."
+ },
+ {
+   "id":256,
+   "birth":1945,
+   "label":"Davis, Dick"
+ },
+ {
+   "id":257,
+   "birth":1917,
+   "label":"Davis, Jack"
+ },
+ {
+   "id":258,
+   "birth":1928,
+   "label":"Davison, Peter"
+ },
+ {
+   "id":259,
+   "birth":1930,
+   "label":"Dawe, (Donald) Bruce"
+ },
+ {
+   "id":260,
+   "birth":1904,
+   "label":"Day Lewis, C."
+ },
+ {
+   "id":264,
+   "birth":1940,
+   "label":"de Hoyos, Angela"
+ },
+ {
+   "id":265,
+   "birth":1873,
+   "label":"de la Mare, Walter"
+ },
+ {
+   "id":266,
+   "birth":1903,
+   "label":"Denby, Edwin"
+ },
+ {
+   "id":267,
+   "birth":1876,
+   "label":"Dennis, C. J."
+ },
+ {
+   "id":269,
+   "birth":1920,
+   "label":"de Silva, Alfreda"
+ },
+ {
+   "id":270,
+   "birth":1940,
+   "label":"de Souza, Eunice"
+ },
+ {
+   "id":272,
+   "birth":1908,
+   "label":"Devlin, Denis"
+ },
+ {
+   "id":274,
+   "birth":1923,
+   "label":"Dickey, James"
+ },
+ {
+   "id":275,
+   "birth":1928,
+   "label":"Dickey, William"
+ },
+ {
+   "id":276,
+   "birth":1913,
+   "label":"Dickinson, Patric Thomas"
+ },
+ {
+   "id":277,
+   "birth":1946,
+   "label":"Didsbury, Peter"
+ },
+ {
+   "id":278,
+   "birth":1949,
+   "label":"di Michele, Mary"
+ },
+ {
+   "id":279,
+   "birth":1936,
+   "label":"Dipoko, Mbella Sonne"
+ },
+ {
+   "id":280,
+   "birth":1934,
+   "label":"di Prima, Diane"
+ },
+ {
+   "id":281,
+   "birth":1940,
+   "label":"Disch, Tom"
+ },
+ {
+   "id":282,
+   "birth":1920,
+   "label":"Dobson, Rosemary"
+ },
+ {
+   "id":283,
+   "birth":1941,
+   "label":"Dobyns, Stephen J."
+ },
+ {
+   "id":284,
+   "birth":1954,
+   "label":"Donaghy, Michael"
+ },
+ {
+   "id":285,
+   "birth":1886,
+   "label":"Doolittle, Hilda"
+ },
+ {
+   "id":286,
+   "birth":1929,
+   "label":"Dorn, Ed(ward)"
+ },
+ {
+   "id":288,
+   "birth":1920,
+   "label":"Douglas, Keith"
+ },
+ {
+   "id":289,
+   "birth":1952,
+   "label":"Dove, Rita"
+ },
+ {
+   "id":290,
+   "birth":1929,
+   "label":"Downie, Freda"
+ },
+ {
+   "id":291,
+   "birth":1948,
+   "label":"Dransfield, Michael"
+ },
+ {
+   "id":292,
+   "birth":1882,
+   "label":"Drinkwater, John"
+ },
+ {
+   "id":293,
+   "birth":1939,
+   "label":"Driver, C. J."
+ },
+ {
+   "id":294,
+   "birth":1945,
+   "label":"Dubie, Norman"
+ },
+ {
+   "id":295,
+   "birth":1918,
+   "label":"Dudek, Louis"
+ },
+ {
+   "id":296,
+   "birth":1955,
+   "label":"Duffy, Carol Ann"
+ },
+ {
+   "id":297,
+   "birth":1923,
+   "label":"Dugan, Alan"
+ },
+ {
+   "id":298,
+   "birth":1894,
+   "label":"Duggan, Eileen"
+ },
+ {
+   "id":299,
+   "birth":1949,
+   "label":"Duggan, Laurie"
+ },
+ {
+   "id":300,
+   "birth":1919,
+   "label":"Duncan, Robert"
+ },
+ {
+   "id":301,
+   "birth":1952,
+   "label":"Dunmore, Helen"
+ },
+ {
+   "id":302,
+   "birth":1942,
+   "label":"Dunn, Douglas"
+ },
+ {
+   "id":303,
+   "birth":1939,
+   "label":"Dunn, Stephen"
+ },
+ {
+   "id":304,
+   "birth":1944,
+   "label":"Durcan, Paul"
+ },
+ {
+   "id":305,
+   "birth":1912,
+   "label":"Durrell, Lawrence"
+ },
+ {
+   "id":306,
+   "birth":1922,
+   "label":"Dutton, Geoffrey"
+ },
+ {
+   "id":308,
+   "birth":1914,
+   "label":"Dyment, Clifford"
+ },
+ {
+   "id":309,
+   "birth":1904,
+   "label":"Eberhart, Richard"
+ },
+ {
+   "id":310,
+   "birth":1937,
+   "label":"Echeruo, Michael"
+ },
+ {
+   "id":311,
+   "birth":1951,
+   "label":"Edgar, Stephen"
+ },
+ {
+   "id":312,
+   "birth":1924,
+   "label":"Edmond, Lauris"
+ },
+ {
+   "id":313,
+   "birth":1949,
+   "label":"Edmond, Murray"
+ },
+ {
+   "id":315,
+   "birth":1933,
+   "label":"Ee, Tiang Hong"
+ },
+ {
+   "id":317,
+   "birth":1927,
+   "label":"Eigner, Larry"
+ },
+ {
+   "id":318,
+   "birth":1918,
+   "label":"Elder, Anne"
+ },
+ {
+   "id":319,
+   "birth":1888,
+   "label":"Eliot, T. S."
+ },
+ {
+   "id":320,
+   "birth":1932,
+   "label":"Elliot, Alistair"
+ },
+ {
+   "id":322,
+   "birth":1906,
+   "label":"Empson, William"
+ },
+ {
+   "id":323,
+   "birth":1908,
+   "label":"Engle, Paul"
+ },
+ {
+   "id":325,
+   "birth":1920,
+   "label":"Enright, D. J."
+ },
+ {
+   "id":326,
+   "birth":1925,
+   "label":"Enslin, Theodore"
+ },
+ {
+   "id":327,
+   "birth":1935,
+   "label":"Eshleman, Clayton"
+ },
+ {
+   "id":328,
+   "birth":1957,
+   "label":"Espada, Martín"
+ },
+ {
+   "id":329,
+   "birth":1903,
+   "label":"Everson, R. G."
+ },
+ {
+   "id":330,
+   "birth":1912,
+   "label":"Everson, William"
+ },
+ {
+   "id":331,
+   "birth":1916,
+   "label":"Ewart, Gavin"
+ },
+ {
+   "id":332,
+   "birth":1924,
+   "label":"Ezekiel, Nissim"
+ },
+ {
+   "id":334,
+   "birth":1945,
+   "label":"Fahey, Diane"
+ },
+ {
+   "id":335,
+   "birth":1935,
+   "label":"Fainlight, Harry"
+ },
+ {
+   "id":336,
+   "birth":1931,
+   "label":"Fainlight, Ruth"
+ },
+ {
+   "id":337,
+   "birth":1904,
+   "label":"Fairburn, Arthur Rex Dugard"
+ },
+ {
+   "id":339,
+   "birth":1905,
+   "label":"Fallon, Padraic"
+ },
+ {
+   "id":340,
+   "birth":1929,
+   "label":"Fanthorpe, U. A. (Ursula Askham)"
+ },
+ {
+   "id":347,
+   "birth":1949,
+   "label":"Fenton, James"
+ },
+ {
+   "id":348,
+   "birth":1919,
+   "label":"Ferlinghetti, Lawrence (Mendes-Monstanto)"
+ },
+ {
+   "id":349,
+   "birth":1931,
+   "label":"Fernando, Patrick"
+ },
+ {
+   "id":350,
+   "birth":1924,
+   "label":"Ferry, David"
+ },
+ {
+   "id":352,
+   "birth":1924,
+   "label":"Field, Edward"
+ },
+ {
+   "id":353,
+   "birth":1920,
+   "label":"Figueroa, John Joseph Maria"
+ },
+ {
+   "id":355,
+   "birth":1929,
+   "label":"Finkel, Donald"
+ },
+ {
+   "id":357,
+   "birth":1930,
+   "label":"Fisher, Roy"
+ },
+ {
+   "id":359,
+   "birth":1902,
+   "label":"FitzGerald, R. D. (Robert David)"
+ },
+ {
+   "id":360,
+   "birth":1910,
+   "label":"Fitzgerald, Robert"
+ },
+ {
+   "id":362,
+   "birth":1884,
+   "label":"Flecker, James Elroy"
+ },
+ {
+   "id":364,
+   "birth":1886,
+   "label":"Fletcher, John Gould"
+ },
+ {
+   "id":365,
+   "birth":1885,
+   "label":"Flint, F. S. (Frank Stuart)"
+ },
+ {
+   "id":366,
+   "birth":1950,
+   "label":"Forbes, John"
+ },
+ {
+   "id":367,
+   "birth":1950,
+   "label":"Forché, Carolyn"
+ },
+ {
+   "id":368,
+   "birth":1873,
+   "label":"Ford, Ford Madox"
+ },
+ {
+   "id":369,
+   "birth":1962,
+   "label":"Ford, Mark"
+ },
+ {
+   "id":370,
+   "birth":1915,
+   "label":"Ford, R. A. D. (Robert Arthur Douglass)"
+ },
+ {
+   "id":371,
+   "birth":1947,
+   "label":"Forrest-Thomson, Veronica"
+ },
+ {
+   "id":372,
+   "birth":1952,
+   "label":"Foulcher, John"
+ },
+ {
+   "id":373,
+   "birth":1924,
+   "label":"Frame, Janet"
+ },
+ {
+   "id":374,
+   "birth":1901,
+   "label":"Francis, Robert"
+ },
+ {
+   "id":376,
+   "birth":1956,
+   "label":"French, Anne"
+ },
+ {
+   "id":378,
+   "birth":1874,
+   "label":"Frost, Robert"
+ },
+ {
+   "id":381,
+   "birth":1937,
+   "label":"Fuller, John"
+ },
+ {
+   "id":382,
+   "birth":1912,
+   "label":"Fuller, Roy"
+ },
+ {
+   "id":387,
+   "birth":1932,
+   "label":"Gallagher, Tess"
+ },
+ {
+   "id":388,
+   "birth":1915,
+   "label":"Gardner, Isabella"
+ },
+ {
+   "id":389,
+   "birth":1944,
+   "label":"Garfitt, Roger"
+ },
+ {
+   "id":390,
+   "birth":1909,
+   "label":"Garioch, Robert"
+ },
+ {
+   "id":391,
+   "birth":1926,
+   "label":"Garlick, Raymond"
+ },
+ {
+   "id":392,
+   "birth":1929,
+   "label":"Garrett, George"
+ },
+ {
+   "id":393,
+   "birth":1912,
+   "label":"Garrigue, Jean"
+ },
+ {
+   "id":394,
+   "birth":1916,
+   "label":"Gascoyne, David"
+ },
+ {
+   "id":395,
+   "birth":1940,
+   "label":"Geddes, Gary"
+ },
+ {
+   "id":398,
+   "birth":1903,
+   "label":"Ghiselin, Brewster"
+ },
+ {
+   "id":399,
+   "birth":1935,
+   "label":"Ghose, Zulfikar"
+ },
+ {
+   "id":402,
+   "birth":1925,
+   "label":"Gilbert, Jack"
+ },
+ {
+   "id":403,
+   "birth":1933,
+   "label":"Gilbert, Kevin J."
+ },
+ {
+   "id":404,
+   "birth":1948,
+   "label":"Gillies, Valerie"
+ },
+ {
+   "id":405,
+   "birth":1865,
+   "label":"Gilmore, Mary"
+ },
+ {
+   "id":406,
+   "birth":1926,
+   "label":"Ginsberg, Allen"
+ },
+ {
+   "id":407,
+   "birth":1950,
+   "label":"Gioia, Dana"
+ },
+ {
+   "id":408,
+   "birth":1943,
+   "label":"Giovanni, Nikki"
+ },
+ {
+   "id":409,
+   "birth":1909,
+   "label":"Glassco, John"
+ },
+ {
+   "id":410,
+   "birth":1912,
+   "label":"Glover, Denis"
+ },
+ {
+   "id":411,
+   "birth":1943,
+   "label":"Glück, Louise"
+ },
+ {
+   "id":412,
+   "birth":1878,
+   "label":"Gogarty, Oliver St John"
+ },
+ {
+   "id":413,
+   "birth":1948,
+   "label":"Goldbarth, Albert"
+ },
+ {
+   "id":414,
+   "birth":1951,
+   "label":"Goldsworthy, Peter"
+ },
+ {
+   "id":415,
+   "birth":1928,
+   "label":"Gonzales, Rodolfo ‘Corky’"
+ },
+ {
+   "id":416,
+   "birth":1947,
+   "label":"Goodison, Lorna"
+ },
+ {
+   "id":418,
+   "birth":1935,
+   "label":"Gooneratne, Yasmine"
+ },
+ {
+   "id":419,
+   "birth":1949,
+   "label":"Gould, Alan"
+ },
+ {
+   "id":420,
+   "birth":1951,
+   "label":"Graham, Jorie"
+ },
+ {
+   "id":421,
+   "birth":1918,
+   "label":"Graham, W. S."
+ },
+ {
+   "id":422,
+   "birth":1949,
+   "label":"Grant, Jamie"
+ },
+ {
+   "id":423,
+   "birth":1895,
+   "label":"Graves, Robert"
+ },
+ {
+   "id":425,
+   "birth":1866,
+   "label":"Gray, John"
+ },
+ {
+   "id":426,
+   "birth":1945,
+   "label":"Gray, Robert"
+ },
+ {
+   "id":427,
+   "birth":1941,
+   "label":"Gray, Stephen"
+ },
+ {
+   "id":428,
+   "birth":1920,
+   "label":"Greacen, Robert"
+ },
+ {
+   "id":429,
+   "birth":1893,
+   "label":"Greenberg, Samuel"
+ },
+ {
+   "id":431,
+   "birth":1942,
+   "label":"Gregg, Linda"
+ },
+ {
+   "id":432,
+   "birth":1923,
+   "label":"Gregor, Arthur"
+ },
+ {
+   "id":433,
+   "birth":1898,
+   "label":"Gregory, Horace"
+ },
+ {
+   "id":434,
+   "birth":1951,
+   "label":"Greig, Andrew"
+ },
+ {
+   "id":437,
+   "birth":1905,
+   "label":"Grigson, Geoffrey"
+ },
+ {
+   "id":438,
+   "birth":1950,
+   "label":"Grosholz, Emily"
+ },
+ {
+   "id":439,
+   "birth":1952,
+   "label":"Gross, Philip"
+ },
+ {
+   "id":440,
+   "birth":1932,
+   "label":"Grossman, Allen"
+ },
+ {
+   "id":442,
+   "birth":1923,
+   "label":"Guest, Barbara"
+ },
+ {
+   "id":443,
+   "birth":1929,
+   "label":"Gunn, Thom(son William)"
+ },
+ {
+   "id":444,
+   "birth":1890,
+   "label":"Gurney, Ivor"
+ },
+ {
+   "id":445,
+   "birth":1909,
+   "label":"Gustafson, Ralph"
+ },
+ {
+   "id":446,
+   "birth":1896,
+   "label":"Guthrie, Ramon"
+ },
+ {
+   "id":448,
+   "birth":1946,
+   "label":"Gwala, Mafika Pascal"
+ },
+ {
+   "id":449,
+   "birth":1948,
+   "label":"Gwynn, R. S."
+ },
+ {
+   "id":450,
+   "birth":1942,
+   "label":"Hacker, Marilyn"
+ },
+ {
+   "id":451,
+   "birth":1948,
+   "label":"Hadas, Rachel"
+ },
+ {
+   "id":452,
+   "birth":1924,
+   "label":"Haines, John"
+ },
+ {
+   "id":453,
+   "birth":1928,
+   "label":"Hall, Donald"
+ },
+ {
+   "id":454,
+   "birth":1920,
+   "label":"Hall, J. C."
+ },
+ {
+   "id":455,
+   "birth":1935,
+   "label":"Hall, Rodney"
+ },
+ {
+   "id":457,
+   "birth":1924,
+   "label":"Hamburger, Michael"
+ },
+ {
+   "id":458,
+   "birth":1888,
+   "label":"Hamilton, George Rostrevor"
+ },
+ {
+   "id":459,
+   "birth":1938,
+   "label":"Hamilton, Ian"
+ },
+ {
+   "id":460,
+   "birth":1949,
+   "label":"Hampton, Susan"
+ },
+ {
+   "id":461,
+   "birth":1950,
+   "label":"Haq, Kaiser"
+ },
+ {
+   "id":462,
+   "birth":1840,
+   "label":"Hardy, Thomas"
+ },
+ {
+   "id":463,
+   "birth":1891,
+   "label":"Harford, Lesbia"
+ },
+ {
+   "id":465,
+   "birth":1938,
+   "label":"Harper, Michael S."
+ },
+ {
+   "id":466,
+   "birth":1921,
+   "label":"Harris, Max"
+ },
+ {
+   "id":468,
+   "birth":1937,
+   "label":"Harrison, Jim"
+ },
+ {
+   "id":469,
+   "birth":1937,
+   "label":"Harrison, Tony"
+ },
+ {
+   "id":470,
+   "birth":1939,
+   "label":"Harry, J. S."
+ },
+ {
+   "id":471,
+   "birth":1942,
+   "label":"Harsent, David"
+ },
+ {
+   "id":472,
+   "birth":1954,
+   "label":"Hart, Kevin"
+ },
+ {
+   "id":473,
+   "birth":1878,
+   "label":"Hartigan, P. J."
+ },
+ {
+   "id":474,
+   "birth":1952,
+   "label":"Hartnett, David"
+ },
+ {
+   "id":475,
+   "birth":1941,
+   "label":"Hartnett, Michael"
+ },
+ {
+   "id":476,
+   "birth":1911,
+   "label":"Hart-Smith, William"
+ },
+ {
+   "id":477,
+   "birth":1920,
+   "label":"Harwood, Gwen"
+ },
+ {
+   "id":478,
+   "birth":1939,
+   "label":"Harwood, Lee"
+ },
+ {
+   "id":479,
+   "birth":1951,
+   "label":"Hashmi, Alamgir"
+ },
+ {
+   "id":480,
+   "birth":1948,
+   "label":"Haskell, Dennis"
+ },
+ {
+   "id":481,
+   "birth":1942,
+   "label":"Hasluck, Nicholas"
+ },
+ {
+   "id":482,
+   "birth":1941,
+   "label":"Hass, Robert"
+ },
+ {
+   "id":483,
+   "birth":1915,
+   "label":"Hay, George Campbell"
+ },
+ {
+   "id":484,
+   "birth":1913,
+   "label":"Hayden, Robert"
+ },
+ {
+   "id":485,
+   "birth":1886,
+   "label":"H. D."
+ },
+ {
+   "id":486,
+   "birth":1939,
+   "label":"Heaney, Seamus"
+ },
+ {
+   "id":487,
+   "birth":1918,
+   "label":"Heath-Stubbs, John"
+ },
+ {
+   "id":488,
+   "birth":1923,
+   "label":"Hecht, Anthony"
+ },
+ {
+   "id":492,
+   "birth":1922,
+   "label":"Hendriks, A. L."
+ },
+ {
+   "id":493,
+   "birth":1912,
+   "label":"Hendry, J. F."
+ },
+ {
+   "id":496,
+   "birth":1923,
+   "label":"Hewett, Dorothy"
+ },
+ {
+   "id":497,
+   "birth":1907,
+   "label":"Hewitt, John"
+ },
+ {
+   "id":498,
+   "birth":1901,
+   "label":"Higgins, Bertram"
+ },
+ {
+   "id":500,
+   "birth":1896,
+   "label":"Higgins, F. R."
+ },
+ {
+   "id":501,
+   "birth":1932,
+   "label":"Hill, Sir Geoffrey"
+ },
+ {
+   "id":503,
+   "birth":1895,
+   "label":"Hillyer, Robert"
+ },
+ {
+   "id":504,
+   "birth":1936,
+   "label":"Hine, Daryl"
+ },
+ {
+   "id":505,
+   "birth":1950,
+   "label":"Hirsch, Edward"
+ },
+ {
+   "id":506,
+   "birth":1932,
+   "label":"Hobsbaum, Philip"
+ },
+ {
+   "id":507,
+   "birth":1959,
+   "label":"Hodgins, Philip"
+ },
+ {
+   "id":508,
+   "birth":1871,
+   "label":"Hodgson, Ralph Edwin"
+ },
+ {
+   "id":509,
+   "birth":1923,
+   "label":"Hoffman, Daniel"
+ },
+ {
+   "id":510,
+   "birth":1957,
+   "label":"Hofmann, Michael"
+ },
+ {
+   "id":513,
+   "birth":1929,
+   "label":"Hollander, John"
+ },
+ {
+   "id":514,
+   "birth":1934,
+   "label":"Hollo, Anselm"
+ },
+ {
+   "id":516,
+   "birth":1951,
+   "label":"Hongo, Garrett"
+ },
+ {
+   "id":518,
+   "birth":1907,
+   "label":"Hope, A. D."
+ },
+ {
+   "id":525,
+   "birth":1859,
+   "label":"Housman, A. E."
+ },
+ {
+   "id":526,
+   "birth":1947,
+   "label":"Houston, Douglas"
+ },
+ {
+   "id":528,
+   "birth":1956,
+   "label":"Hove, Chenjerai"
+ },
+ {
+   "id":529,
+   "birth":1929,
+   "label":"Howard, Richard"
+ },
+ {
+   "id":532,
+   "birth":1951,
+   "label":"Hudgins, Andrew"
+ },
+ {
+   "id":534,
+   "birth":1873,
+   "label":"Hueffer, Ford Madox"
+ },
+ {
+   "id":535,
+   "birth":1935,
+   "label":"Hughes, Glyn"
+ },
+ {
+   "id":536,
+   "birth":1902,
+   "label":"Hughes, Langston"
+ },
+ {
+   "id":537,
+   "birth":1930,
+   "label":"Hughes, Ted"
+ },
+ {
+   "id":538,
+   "birth":1923,
+   "label":"Hugo, Richard"
+ },
+ {
+   "id":539,
+   "birth":1883,
+   "label":"Hulme, T. E."
+ },
+ {
+   "id":541,
+   "birth":1950,
+   "label":"Hummer, T. R."
+ },
+ {
+   "id":542,
+   "birth":1919,
+   "label":"Humphreys, Emyr"
+ },
+ {
+   "id":543,
+   "birth":1894,
+   "label":"Humphries, Rolfe"
+ },
+ {
+   "id":544,
+   "birth":1946,
+   "label":"Hunt, Sam"
+ },
+ {
+   "id":546,
+   "birth":1906,
+   "label":"Hyde, Robin"
+ },
+ {
+   "id":547,
+   "birth":1914,
+   "label":"Ignatow, David"
+ },
+ {
+   "id":549,
+   "birth":1956,
+   "label":"Imlah, Mick"
+ },
+ {
+   "id":550,
+   "birth":1938,
+   "label":"Inada, Lawson"
+ },
+ {
+   "id":551,
+   "birth":1913,
+   "label":"Ingamells, Rex"
+ },
+ {
+   "id":553,
+   "birth":1933,
+   "label":"Ireland, Kevin"
+ },
+ {
+   "id":556,
+   "birth":1940,
+   "label":"Jackson, Michael"
+ },
+ {
+   "id":558,
+   "birth":1939,
+   "label":"James, Clive"
+ },
+ {
+   "id":560,
+   "birth":1914,
+   "label":"Jarrell, Randall"
+ },
+ {
+   "id":561,
+   "birth":1887,
+   "label":"Jeffers, Robinson"
+ },
+ {
+   "id":562,
+   "birth":1955,
+   "label":"Jenkins, Alan"
+ },
+ {
+   "id":563,
+   "birth":1926,
+   "label":"Jennings, Elizabeth"
+ },
+ {
+   "id":564,
+   "birth":1948,
+   "label":"Jensen, Laura"
+ },
+ {
+   "id":565,
+   "birth":1943,
+   "label":"Jiles, Paulette"
+ },
+ {
+   "id":567,
+   "birth":1944,
+   "label":"Johnson, Amryl"
+ },
+ {
+   "id":569,
+   "birth":1938,
+   "label":"Johnson, Colin"
+ },
+ {
+   "id":570,
+   "birth":1949,
+   "label":"Johnson, Denis"
+ },
+ {
+   "id":571,
+   "birth":1871,
+   "label":"Johnson, James Weldon"
+ },
+ {
+   "id":572,
+   "birth":1952,
+   "label":"Johnson, Linton Kwesi"
+ },
+ {
+   "id":573,
+   "birth":1924,
+   "label":"Johnson, Louis"
+ },
+ {
+   "id":574,
+   "birth":1913,
+   "label":"Johnston, George"
+ },
+ {
+   "id":575,
+   "birth":1947,
+   "label":"Johnston, Martin"
+ },
+ {
+   "id":576,
+   "birth":1938,
+   "label":"Jones, Brian"
+ },
+ {
+   "id":577,
+   "birth":1895,
+   "label":"Jones, David"
+ },
+ {
+   "id":578,
+   "birth":1929,
+   "label":"Jones, D. G."
+ },
+ {
+   "id":579,
+   "birth":1931,
+   "label":"Jones, Evan"
+ },
+ {
+   "id":580,
+   "birth":1905,
+   "label":"Jones, Glyn"
+ },
+ {
+   "id":581,
+   "birth":1934,
+   "label":"Jones, LeRoi"
+ },
+ {
+   "id":582,
+   "birth":1941,
+   "label":"Jones, Rae Desmond"
+ },
+ {
+   "id":583,
+   "birth":1950,
+   "label":"Jones, Rodney"
+ },
+ {
+   "id":584,
+   "birth":1935,
+   "label":"Jones, Sally Roberts"
+ },
+ {
+   "id":585,
+   "birth":1921,
+   "label":"Jones, T. Harri (Thomas Henry)"
+ },
+ {
+   "id":587,
+   "birth":1914,
+   "label":"Joseph, M. K."
+ },
+ {
+   "id":588,
+   "birth":1882,
+   "label":"Joyce, James"
+ },
+ {
+   "id":589,
+   "birth":1940,
+   "label":"Jussawalla, Adil (Jehangir)"
+ },
+ {
+   "id":590,
+   "birth":1925,
+   "label":"Justice, Donald"
+ },
+ {
+   "id":592,
+   "birth":1935,
+   "label":"Kamal, Daud"
+ },
+ {
+   "id":594,
+   "birth":1931,
+   "label":"Kavanagh, P. J. (Patrick Joseph Gregory)"
+ },
+ {
+   "id":595,
+   "birth":1904,
+   "label":"Kavanagh, Patrick"
+ },
+ {
+   "id":597,
+   "birth":1934,
+   "label":"Keene, Dennis"
+ },
+ {
+   "id":598,
+   "birth":1914,
+   "label":"Kees, Weldon"
+ },
+ {
+   "id":599,
+   "birth":1923,
+   "label":"Keesing, Nancy (Hertzberg)"
+ },
+ {
+   "id":600,
+   "birth":1935,
+   "label":"Kefala, Antigone"
+ },
+ {
+   "id":601,
+   "birth":1927,
+   "label":"Kell, Richard (Alexander)"
+ },
+ {
+   "id":602,
+   "birth":1935,
+   "label":"Kelly, Robert"
+ },
+ {
+   "id":603,
+   "birth":1929,
+   "label":"Kennedy, X. J."
+ },
+ {
+   "id":604,
+   "birth":1936,
+   "label":"Kennelly, Brendan"
+ },
+ {
+   "id":605,
+   "birth":1948,
+   "label":"Kenney, Richard"
+ },
+ {
+   "id":606,
+   "birth":1947,
+   "label":"Kenyon, Jane"
+ },
+ {
+   "id":608,
+   "birth":1922,
+   "label":"Keyes, Sidney (Arthur Kilworth)"
+ },
+ {
+   "id":610,
+   "birth":1886,
+   "label":"Kilmer, Joyce"
+ },
+ {
+   "id":611,
+   "birth":1927,
+   "label":"Kinnell, Galway"
+ },
+ {
+   "id":612,
+   "birth":1928,
+   "label":"Kinsella, Thomas"
+ },
+ {
+   "id":614,
+   "birth":1865,
+   "label":"Kipling, Rudyard"
+ },
+ {
+   "id":615,
+   "birth":1923,
+   "label":"Kirkup, James (Falconer)"
+ },
+ {
+   "id":616,
+   "birth":1925,
+   "label":"Kizer, Carolyn"
+ },
+ {
+   "id":617,
+   "birth":1942,
+   "label":"Klappert, Peter"
+ },
+ {
+   "id":618,
+   "birth":1909,
+   "label":"Klein, A. M. (Abraham Moses)"
+ },
+ {
+   "id":619,
+   "birth":1931,
+   "label":"Knight, Etheridge"
+ },
+ {
+   "id":620,
+   "birth":1899,
+   "label":"Knister, (John) Raymond"
+ },
+ {
+   "id":621,
+   "birth":1940,
+   "label":"Knott, Bill"
+ },
+ {
+   "id":623,
+   "birth":1925,
+   "label":"Koch, Kenneth"
+ },
+ {
+   "id":624,
+   "birth":1945,
+   "label":"Koethe, John"
+ },
+ {
+   "id":625,
+   "birth":1932,
+   "label":"Kolatkar, Arun Balkrishna"
+ },
+ {
+   "id":626,
+   "birth":1947,
+   "label":"Komunyakaa, Yusef"
+ },
+ {
+   "id":627,
+   "birth":1883,
+   "label":"Kreymborg, Alfred"
+ },
+ {
+   "id":628,
+   "birth":1927,
+   "label":"Kroetsch, Robert"
+ },
+ {
+   "id":629,
+   "birth":1925,
+   "label":"Kumin, Maxine"
+ },
+ {
+   "id":630,
+   "birth":1930,
+   "label":"Kunene, Mazisi"
+ },
+ {
+   "id":631,
+   "birth":1905,
+   "label":"Kunitz, Stanley"
+ },
+ {
+   "id":633,
+   "birth":1946,
+   "label":"Laing, Kojo"
+ },
+ {
+   "id":635,
+   "birth":1927,
+   "label":"Lamantia, Philip"
+ },
+ {
+   "id":637,
+   "birth":1939,
+   "label":"Lane, Patrick"
+ },
+ {
+   "id":639,
+   "birth":1954,
+   "label":"Lansdown, Andrew"
+ },
+ {
+   "id":641,
+   "birth":1958,
+   "label":"Lasdun, James"
+ },
+ {
+   "id":643,
+   "birth":1914,
+   "label":"Laughlin, James"
+ },
+ {
+   "id":644,
+   "birth":1885,
+   "label":"Lawrence, D. H."
+ },
+ {
+   "id":645,
+   "birth":1867,
+   "label":"Lawson, Henry"
+ },
+ {
+   "id":646,
+   "birth":1912,
+   "label":"Layton, Irving"
+ },
+ {
+   "id":647,
+   "birth":1942,
+   "label":"Lea, Sydney"
+ },
+ {
+   "id":648,
+   "birth":1887,
+   "label":"Ledwidge, Francis"
+ },
+ {
+   "id":649,
+   "birth":1942,
+   "label":"Lee, Don L."
+ },
+ {
+   "id":650,
+   "birth":1914,
+   "label":"Lee, Laurie"
+ },
+ {
+   "id":652,
+   "birth":1946,
+   "label":"Lee, Tzu Pheng"
+ },
+ {
+   "id":653,
+   "birth":1948,
+   "label":"Lehman, David"
+ },
+ {
+   "id":654,
+   "birth":1940,
+   "label":"Lehmann, Geoffrey"
+ },
+ {
+   "id":655,
+   "birth":1907,
+   "label":"Lehmann, John"
+ },
+ {
+   "id":656,
+   "birth":1953,
+   "label":"Leithauser, Brad"
+ },
+ {
+   "id":657,
+   "birth":1944,
+   "label":"Leonard, Tom"
+ },
+ {
+   "id":658,
+   "birth":1914,
+   "label":"LePan, Douglas"
+ },
+ {
+   "id":660,
+   "birth":1923,
+   "label":"Levertov, Denise"
+ },
+ {
+   "id":661,
+   "birth":1931,
+   "label":"Levi, Peter"
+ },
+ {
+   "id":662,
+   "birth":1928,
+   "label":"Levine, Philip"
+ },
+ {
+   "id":663,
+   "birth":1946,
+   "label":"Levis, Larry"
+ },
+ {
+   "id":664,
+   "birth":1915,
+   "label":"Lewis, Alun"
+ },
+ {
+   "id":665,
+   "birth":1904,
+   "label":"Lewis, C. Day"
+ },
+ {
+   "id":667,
+   "birth":1899,
+   "label":"Lewis, Janet"
+ },
+ {
+   "id":668,
+   "birth":1882,
+   "label":"Lewis, (Percy) Wyndham"
+ },
+ {
+   "id":669,
+   "birth":1935,
+   "label":"Lieberman, Laurence"
+ },
+ {
+   "id":670,
+   "birth":1944,
+   "label":"Lim, Shirley Geok-lin"
+ },
+ {
+   "id":672,
+   "birth":1948,
+   "label":"Lindop, Grevel"
+ },
+ {
+   "id":674,
+   "birth":1879,
+   "label":"Lindsay, Vachel"
+ },
+ {
+   "id":677,
+   "birth":1909,
+   "label":"Livesay, Dorothy"
+ },
+ {
+   "id":678,
+   "birth":1932,
+   "label":"Livingstone, Douglas"
+ },
+ {
+   "id":679,
+   "birth":1940,
+   "label":"Llewellyn, Kate"
+ },
+ {
+   "id":680,
+   "birth":1922,
+   "label":"Lochhead, Douglas Grant"
+ },
+ {
+   "id":681,
+   "birth":1947,
+   "label":"Lochhead, Liz"
+ },
+ {
+   "id":682,
+   "birth":1937,
+   "label":"Loewinsohn, Ron(ald William)"
+ },
+ {
+   "id":683,
+   "birth":1923,
+   "label":"Logan, John"
+ },
+ {
+   "id":684,
+   "birth":1950,
+   "label":"Logan, William"
+ },
+ {
+   "id":685,
+   "birth":1926,
+   "label":"Logue, Christopher"
+ },
+ {
+   "id":687,
+   "birth":1924,
+   "label":"Lomas, Herbert"
+ },
+ {
+   "id":689,
+   "birth":1939,
+   "label":"Longley, Michael"
+ },
+ {
+   "id":690,
+   "birth":1934,
+   "label":"Lorde, Audre Geraldin"
+ },
+ {
+   "id":692,
+   "birth":1913,
+   "label":"Lowbury, Edward"
+ },
+ {
+   "id":693,
+   "birth":1874,
+   "label":"Lowell, Amy"
+ },
+ {
+   "id":694,
+   "birth":1917,
+   "label":"Lowell, Robert"
+ },
+ {
+   "id":696,
+   "birth":1935,
+   "label":"Lowther, Pat(ricia Louise)"
+ },
+ {
+   "id":697,
+   "birth":1882,
+   "label":"Loy, Mina"
+ },
+ {
+   "id":698,
+   "birth":1933,
+   "label":"Lucie-Smith, (John) Edward (McKenzie)"
+ },
+ {
+   "id":699,
+   "birth":1942,
+   "label":"Ludvigson, Susan"
+ },
+ {
+   "id":700,
+   "birth":1946,
+   "label":"Lux, Thomas"
+ },
+ {
+   "id":701,
+   "birth":1917,
+   "label":"McAuley, James"
+ },
+ {
+   "id":702,
+   "birth":1932,
+   "label":"MacBeth, George"
+ },
+ {
+   "id":704,
+   "birth":1910,
+   "label":"MacCaig, Norman"
+ },
+ {
+   "id":705,
+   "birth":1945,
+   "label":"McClatchy, J. D."
+ },
+ {
+   "id":706,
+   "birth":1932,
+   "label":"McClure, Michael"
+ },
+ {
+   "id":708,
+   "birth":1908,
+   "label":"McCuaig, Ronald"
+ },
+ {
+   "id":709,
+   "birth":1892,
+   "label":"MacDiarmid, Hugh"
+ },
+ {
+   "id":710,
+   "birth":1878,
+   "label":"MacDonagh, Thomas"
+ },
+ {
+   "id":711,
+   "birth":1928,
+   "label":"MacDonald, Cynthia"
+ },
+ {
+   "id":712,
+   "birth":1921,
+   "label":"McDonald, Nan"
+ },
+ {
+   "id":714,
+   "birth":1953,
+   "label":"McDowell, Robert"
+ },
+ {
+   "id":715,
+   "birth":1941,
+   "label":"MacEwen, Gwendolyn"
+ },
+ {
+   "id":716,
+   "birth":1940,
+   "label":"McFadden, David W."
+ },
+ {
+   "id":717,
+   "birth":1921,
+   "label":"McFadden, Roy"
+ },
+ {
+   "id":718,
+   "birth":1908,
+   "label":"McGinley, Phyllis"
+ },
+ {
+   "id":720,
+   "birth":1916,
+   "label":"McGrath, Thomas"
+ },
+ {
+   "id":723,
+   "birth":1889,
+   "label":"McKay, Claude"
+ },
+ {
+   "id":724,
+   "birth":1913,
+   "label":"Mackenzie, Kenneth Seaforth"
+ },
+ {
+   "id":726,
+   "birth":1956,
+   "label":"Mackinnon, Lachlan"
+ },
+ {
+   "id":727,
+   "birth":1926,
+   "label":"Maclean, Alasdair"
+ },
+ {
+   "id":729,
+   "birth":1892,
+   "label":"MacLeish, Archibald"
+ },
+ {
+   "id":730,
+   "birth":1947,
+   "label":"McMaster, Rhyll"
+ },
+ {
+   "id":731,
+   "birth":1939,
+   "label":"McMichael, James"
+ },
+ {
+   "id":732,
+   "birth":1957,
+   "label":"McMillan, Ian"
+ },
+ {
+   "id":733,
+   "birth":1907,
+   "label":"MacNeice, Louis"
+ },
+ {
+   "id":734,
+   "birth":1941,
+   "label":"McNeill, Anthony"
+ },
+ {
+   "id":735,
+   "birth":1931,
+   "label":"Macpherson, Jay"
+ },
+ {
+   "id":736,
+   "birth":1943,
+   "label":"McPherson, Sandra"
+ },
+ {
+   "id":737,
+   "birth":1944,
+   "label":"Maddox, Everette"
+ },
+ {
+   "id":738,
+   "birth":1912,
+   "label":"Madge, Charles"
+ },
+ {
+   "id":739,
+   "birth":1942,
+   "label":"Madhubuti, Haki R."
+ },
+ {
+   "id":741,
+   "birth":1928,
+   "label":"Mahapatra, Jayanta"
+ },
+ {
+   "id":742,
+   "birth":1941,
+   "label":"Mahon, Derek"
+ },
+ {
+   "id":743,
+   "birth":1949,
+   "label":"Maiden, Jennifer"
+ },
+ {
+   "id":746,
+   "birth":1934,
+   "label":"Malouf, David"
+ },
+ {
+   "id":747,
+   "birth":1922,
+   "label":"Mandel, Eli (as Wolf)"
+ },
+ {
+   "id":748,
+   "birth":1946,
+   "label":"Manhire, Bill"
+ },
+ {
+   "id":750,
+   "birth":1948,
+   "label":"Mann, Chris(topher Zithulele)"
+ },
+ {
+   "id":754,
+   "birth":1952,
+   "label":"Marechera, Dambudzo"
+ },
+ {
+   "id":755,
+   "birth":1939,
+   "label":"Markham, E. A."
+ },
+ {
+   "id":757,
+   "birth":1942,
+   "label":"Marlatt, Daphne"
+ },
+ {
+   "id":758,
+   "birth":1878,
+   "label":"Marquis, Don(ald Robert Perry)"
+ },
+ {
+   "id":759,
+   "birth":1913,
+   "label":"Marriott, Anne"
+ },
+ {
+   "id":761,
+   "birth":1938,
+   "label":"Marshall, Tom"
+ },
+ {
+   "id":762,
+   "birth":1905,
+   "label":"Marson, Una"
+ },
+ {
+   "id":764,
+   "birth":1942,
+   "label":"Martin, Charles"
+ },
+ {
+   "id":766,
+   "birth":1925,
+   "label":"Martin, William"
+ },
+ {
+   "id":767,
+   "birth":1878,
+   "label":"Masefield, John"
+ },
+ {
+   "id":768,
+   "birth":1905,
+   "label":"Mason, R. A. K."
+ },
+ {
+   "id":769,
+   "birth":1932,
+   "label":"Massingham, Harold"
+ },
+ {
+   "id":770,
+   "birth":1868,
+   "label":"Masters, Edgar Lee"
+ },
+ {
+   "id":771,
+   "birth":1929,
+   "label":"Mathew, Ray(mond Frank)"
+ },
+ {
+   "id":772,
+   "birth":1930,
+   "label":"Mathews, Harry"
+ },
+ {
+   "id":773,
+   "birth":1915,
+   "label":"Mathias, Roland"
+ },
+ {
+   "id":774,
+   "birth":1889,
+   "label":"Matthews, Harley"
+ },
+ {
+   "id":775,
+   "birth":1942,
+   "label":"Matthews, William"
+ },
+ {
+   "id":776,
+   "birth":1881,
+   "label":"Maurice, Furnley"
+ },
+ {
+   "id":777,
+   "birth":1962,
+   "label":"Maxwell, Glyn"
+ },
+ {
+   "id":780,
+   "birth":1947,
+   "label":"Mehrotra, Arvind Krishna"
+ },
+ {
+   "id":781,
+   "birth":1925,
+   "label":"Menashe, Samuel"
+ },
+ {
+   "id":782,
+   "birth":1919,
+   "label":"Meredith, William"
+ },
+ {
+   "id":783,
+   "birth":1926,
+   "label":"Merrill, James"
+ },
+ {
+   "id":784,
+   "birth":1915,
+   "label":"Merton, Thomas"
+ },
+ {
+   "id":785,
+   "birth":1927,
+   "label":"Merwin, W. S."
+ },
+ {
+   "id":786,
+   "birth":1869,
+   "label":"Mew, Charlotte"
+ },
+ {
+   "id":787,
+   "birth":1847,
+   "label":"Meynell, Alice"
+ },
+ {
+   "id":788,
+   "birth":1935,
+   "label":"Mezey, Robert"
+ },
+ {
+   "id":790,
+   "birth":1926,
+   "label":"Middleton, Christopher"
+ },
+ {
+   "id":791,
+   "birth":1911,
+   "label":"Miles, Josephine"
+ },
+ {
+   "id":792,
+   "birth":1892,
+   "label":"Millay, Edna St Vincent"
+ },
+ {
+   "id":793,
+   "birth":1919,
+   "label":"Miller, Ruth"
+ },
+ {
+   "id":794,
+   "birth":1924,
+   "label":"Miller, Vassar"
+ },
+ {
+   "id":798,
+   "birth":1952,
+   "label":"Minhinnick, Robert"
+ },
+ {
+   "id":799,
+   "birth":1932,
+   "label":"Mitchell, Adrian"
+ },
+ {
+   "id":800,
+   "birth":1933,
+   "label":"Mnthali, Felix"
+ },
+ {
+   "id":801,
+   "birth":1941,
+   "label":"Mole, John"
+ },
+ {
+   "id":802,
+   "birth":1900,
+   "label":"Moll, E. G."
+ },
+ {
+   "id":803,
+   "birth":1879,
+   "label":"Monro, Harold"
+ },
+ {
+   "id":805,
+   "birth":1929,
+   "label":"Montague, John"
+ },
+ {
+   "id":807,
+   "birth":1887,
+   "label":"Moore, Marianne"
+ },
+ {
+   "id":808,
+   "birth":1903,
+   "label":"Moore, Merrill"
+ },
+ {
+   "id":809,
+   "birth":1918,
+   "label":"Moore, Nicholas"
+ },
+ {
+   "id":811,
+   "birth":1938,
+   "label":"Moraes, Dom"
+ },
+ {
+   "id":812,
+   "birth":1920,
+   "label":"Morgan, Edwin"
+ },
+ {
+   "id":813,
+   "birth":1922,
+   "label":"Morgan, (George) Frederick"
+ },
+ {
+   "id":814,
+   "birth":1944,
+   "label":"Morgan, Robert"
+ },
+ {
+   "id":816,
+   "birth":1937,
+   "label":"Morris, Mervyn"
+ },
+ {
+   "id":817,
+   "birth":1950,
+   "label":"Morrison, Blake"
+ },
+ {
+   "id":818,
+   "birth":1922,
+   "label":"Moss, Howard"
+ },
+ {
+   "id":820,
+   "birth":1955,
+   "label":"Mouré, Erin"
+ },
+ {
+   "id":823,
+   "birth":1940,
+   "label":"Mtshali, Oswald (Joseph) Mbuyiseni"
+ },
+ {
+   "id":824,
+   "birth":1911,
+   "label":"Mudie, Ian"
+ },
+ {
+   "id":825,
+   "birth":1942,
+   "label":"Muhammad, Haji Salleh"
+ },
+ {
+   "id":826,
+   "birth":1887,
+   "label":"Muir, Edwin"
+ },
+ {
+   "id":827,
+   "birth":1951,
+   "label":"Muldoon, Paul"
+ },
+ {
+   "id":829,
+   "birth":1927,
+   "label":"Murphy, Richard"
+ },
+ {
+   "id":830,
+   "birth":1938,
+   "label":"Murray, Les(lie Allan)"
+ },
+ {
+   "id":831,
+   "birth":1951,
+   "label":"Musgrave, Susan"
+ },
+ {
+   "id":832,
+   "birth":1945,
+   "label":"Muske(-Dukes), Carol"
+ },
+ {
+   "id":833,
+   "birth":1899,
+   "label":"Nabokov, Vladimir"
+ },
+ {
+   "id":835,
+   "birth":1945,
+   "label":"Nair, Chandran"
+ },
+ {
+   "id":836,
+   "birth":1902,
+   "label":"Nash, Ogden"
+ },
+ {
+   "id":840,
+   "birth":1872,
+   "label":"Neilson, (John) Shaw"
+ },
+ {
+   "id":841,
+   "birth":1920,
+   "label":"Nemerov, Howard Stanley"
+ },
+ {
+   "id":847,
+   "birth":1938,
+   "label":"Newlove, John"
+ },
+ {
+   "id":856,
+   "birth":1944,
+   "label":"Nichol, bp"
+ },
+ {
+   "id":857,
+   "birth":1950,
+   "label":"Nichols, Grace"
+ },
+ {
+   "id":858,
+   "birth":1910,
+   "label":"Nicholson, Norman"
+ },
+ {
+   "id":859,
+   "birth":1903,
+   "label":"Niedecker, Lorine"
+ },
+ {
+   "id":860,
+   "birth":1913,
+   "label":"Nims, John Frederick"
+ },
+ {
+   "id":863,
+   "birth":1920,
+   "label":"Noonuccal, Oodgeroo"
+ },
+ {
+   "id":864,
+   "birth":1921,
+   "label":"Norris, Leslie"
+ },
+ {
+   "id":865,
+   "birth":1942,
+   "label":"Nortje, Arthur"
+ },
+ {
+   "id":866,
+   "birth":1933,
+   "label":"Nowlan, Alden"
+ },
+ {
+   "id":867,
+   "birth":1946,
+   "label":"Ntiru, Richard"
+ },
+ {
+   "id":869,
+   "birth":1939,
+   "label":"Nye, Robert"
+ },
+ {
+   "id":870,
+   "birth":1952,
+   "label":"Motion, Sir Andrew"
+ },
+ {
+   "id":872,
+   "birth":1878,
+   "label":"O'Brien, John"
+ },
+ {
+   "id":873,
+   "birth":1952,
+   "label":"O'Brien, Sean"
+ },
+ {
+   "id":875,
+   "birth":1945,
+   "label":"O'Connor, Mark"
+ },
+ {
+   "id":876,
+   "birth":1916,
+   "label":"O'Connor, Philip"
+ },
+ {
+   "id":877,
+   "birth":1947,
+   "label":"Ofeimun, Odia"
+ },
+ {
+   "id":878,
+   "birth":1935,
+   "label":"O'Grady, Desmond"
+ },
+ {
+   "id":879,
+   "birth":1926,
+   "label":"O'Hara, Frank"
+ },
+ {
+   "id":880,
+   "birth":1948,
+   "label":"Ojaide, Moses Tanure"
+ },
+ {
+   "id":881,
+   "birth":1941,
+   "label":"Okai, John Atukwei"
+ },
+ {
+   "id":882,
+   "birth":1921,
+   "label":"Okara, Gabriel Imomotimi Gbaingbain"
+ },
+ {
+   "id":883,
+   "birth":1932,
+   "label":"Okigbo, Christopher"
+ },
+ {
+   "id":884,
+   "birth":1942,
+   "label":"Olds, Sharon"
+ },
+ {
+   "id":885,
+   "birth":1935,
+   "label":"Oliver, Mary"
+ },
+ {
+   "id":886,
+   "birth":1910,
+   "label":"Olson, Charles"
+ },
+ {
+   "id":887,
+   "birth":1909,
+   "label":"Olson, Elder"
+ },
+ {
+   "id":888,
+   "birth":1943,
+   "label":"Ondaatje, Michael"
+ },
+ {
+   "id":889,
+   "birth":1946,
+   "label":"Nelson (Waniek), Marilyn"
+ },
+ {
+   "id":891,
+   "birth":1908,
+   "label":"Oppen, George"
+ },
+ {
+   "id":892,
+   "birth":1930,
+   "label":"Oppenheimer, Joel"
+ },
+ {
+   "id":894,
+   "birth":1923,
+   "label":"Ormond, John"
+ },
+ {
+   "id":895,
+   "birth":1947,
+   "label":"Ormsby, Frank"
+ },
+ {
+   "id":896,
+   "birth":1947,
+   "label":"Orr, Gregory"
+ },
+ {
+   "id":897,
+   "birth":1937,
+   "label":"O'Sullivan, Vincent"
+ },
+ {
+   "id":898,
+   "birth":1947,
+   "label":"Osundare, Niyi"
+ },
+ {
+   "id":899,
+   "birth":1940,
+   "label":"Owen, Jan"
+ },
+ {
+   "id":900,
+   "birth":1893,
+   "label":"Owen, Wilfred"
+ },
+ {
+   "id":901,
+   "birth":1954,
+   "label":"Oyebode, Femi"
+ },
+ {
+   "id":902,
+   "birth":1942,
+   "label":"Padgett, Ron"
+ },
+ {
+   "id":903,
+   "birth":1940,
+   "label":"Page, Geoff(rey Donald)"
+ },
+ {
+   "id":904,
+   "birth":1916,
+   "label":"Page, P. K. (Patricia Kathleen)"
+ },
+ {
+   "id":905,
+   "birth":1943,
+   "label":"Palmer, Michael"
+ },
+ {
+   "id":906,
+   "birth":1959,
+   "label":"Pankey, Eric"
+ },
+ {
+   "id":908,
+   "birth":1893,
+   "label":"Parker, Dorothy"
+ },
+ {
+   "id":909,
+   "birth":1908,
+   "label":"Parsons, Clere (Trevor James Herbert)"
+ },
+ {
+   "id":910,
+   "birth":1934,
+   "label":"Parthasarathy, Rajagopal"
+ },
+ {
+   "id":912,
+   "birth":1932,
+   "label":"Pastan, Linda"
+ },
+ {
+   "id":913,
+   "birth":1911,
+   "label":"Patchen, Kenneth"
+ },
+ {
+   "id":914,
+   "birth":1943,
+   "label":"Patel, Essop"
+ },
+ {
+   "id":915,
+   "birth":1940,
+   "label":"Patel, Gieve"
+ },
+ {
+   "id":916,
+   "birth":1864,
+   "label":"Paterson, A. B."
+ },
+ {
+   "id":918,
+   "birth":1949,
+   "label":"Paulin, Tom"
+ },
+ {
+   "id":919,
+   "birth":1931,
+   "label":"p'Bitek, Okot"
+ },
+ {
+   "id":920,
+   "birth":1947,
+   "label":"Peacock, Molly"
+ },
+ {
+   "id":921,
+   "birth":1911,
+   "label":"Peake, Mervyn (Lawrence)"
+ },
+ {
+   "id":923,
+   "birth":1944,
+   "label":"Peeradina, Saleem"
+ },
+ {
+   "id":927,
+   "birth":1932,
+   "label":"Peters, Lenrie"
+ },
+ {
+   "id":928,
+   "birth":1928,
+   "label":"Petersen, Donald"
+ },
+ {
+   "id":929,
+   "birth":1938,
+   "label":"Phillips, Robert"
+ },
+ {
+   "id":930,
+   "birth":1946,
+   "label":"Pickard, Tom"
+ },
+ {
+   "id":931,
+   "birth":1936,
+   "label":"Piercy, Marge"
+ },
+ {
+   "id":932,
+   "birth":1927,
+   "label":"Pinkerton, Helen"
+ },
+ {
+   "id":933,
+   "birth":1940,
+   "label":"Pinsky, Robert"
+ },
+ {
+   "id":934,
+   "birth":1930,
+   "label":"Pinter, Harold"
+ },
+ {
+   "id":935,
+   "birth":1897,
+   "label":"Pitter, Ruth"
+ },
+ {
+   "id":937,
+   "birth":1932,
+   "label":"Plath, Sylvia"
+ },
+ {
+   "id":938,
+   "birth":1903,
+   "label":"Plomer, William (Charles Franklyn)"
+ },
+ {
+   "id":940,
+   "birth":1911,
+   "label":"Plutzik, Hyam"
+ },
+ {
+   "id":952,
+   "birth":1929,
+   "label":"Porter, Peter"
+ },
+ {
+   "id":954,
+   "birth":1940,
+   "label":"Powell, Craig"
+ },
+ {
+   "id":956,
+   "birth":1882,
+   "label":"Pratt, E. J. (Edwin John)"
+ },
+ {
+   "id":957,
+   "birth":1893,
+   "label":"Prewett, Frank"
+ },
+ {
+   "id":958,
+   "birth":1912,
+   "label":"Prince, F. T. (Frank Templeton)"
+ },
+ {
+   "id":961,
+   "birth":1936,
+   "label":"Prynne, J. H. (Jeremy Halvard)"
+ },
+ {
+   "id":964,
+   "birth":1944,
+   "label":"Purcell, Sally"
+ },
+ {
+   "id":965,
+   "birth":1918,
+   "label":"Purdy, Al(fred Wellington)"
+ },
+ {
+   "id":966,
+   "birth":1894,
+   "label":"Putnam, H. Phelps"
+ },
+ {
+   "id":968,
+   "birth":1927,
+   "label":"Rafat, Taufiq"
+ },
+ {
+   "id":970,
+   "birth":1944,
+   "label":"Raine, Craig"
+ },
+ {
+   "id":972,
+   "birth":1903,
+   "label":"Rakosi, Carl"
+ },
+ {
+   "id":973,
+   "birth":1929,
+   "label":"Ramanujan, A. K."
+ },
+ {
+   "id":974,
+   "birth":1947,
+   "label":"Ramke, Bin"
+ },
+ {
+   "id":975,
+   "birth":1925,
+   "label":"Ranasinghe, Anne(liese Katz)"
+ },
+ {
+   "id":976,
+   "birth":1941,
+   "label":"Rankin, Jennifer"
+ },
+ {
+   "id":977,
+   "birth":1888,
+   "label":"Ransom, John Crowe"
+ },
+ {
+   "id":978,
+   "birth":1921,
+   "label":"Rattenbury, Arnold"
+ },
+ {
+   "id":979,
+   "birth":1938,
+   "label":"Raworth, Tom"
+ },
+ {
+   "id":980,
+   "birth":1932,
+   "label":"Ray, David"
+ },
+ {
+   "id":982,
+   "birth":1893,
+   "label":"Read, Sir Herbert (Edward)"
+ },
+ {
+   "id":983,
+   "birth":1946,
+   "label":"Reading, Peter"
+ },
+ {
+   "id":984,
+   "birth":1926,
+   "label":"Reaney, James"
+ },
+ {
+   "id":986,
+   "birth":1914,
+   "label":"Reed, Henry"
+ },
+ {
+   "id":987,
+   "birth":1951,
+   "label":"Reed, Jeremy"
+ },
+ {
+   "id":988,
+   "birth":1856,
+   "label":"Reese, Lizette (Woodworth)"
+ },
+ {
+   "id":989,
+   "birth":1947,
+   "label":"Reeves, Gareth"
+ },
+ {
+   "id":990,
+   "birth":1909,
+   "label":"Reeves, James"
+ },
+ {
+   "id":991,
+   "birth":1926,
+   "label":"Reid, Alastair"
+ },
+ {
+   "id":992,
+   "birth":1949,
+   "label":"Reid, Christopher"
+ },
+ {
+   "id":994,
+   "birth":1905,
+   "label":"Rexroth, Kenneth"
+ },
+ {
+   "id":995,
+   "birth":1957,
+   "label":"Reynolds, Oliver"
+ },
+ {
+   "id":996,
+   "birth":1894,
+   "label":"Reznikoff, Charles"
+ },
+ {
+   "id":998,
+   "birth":1929,
+   "label":"Rich, Adrienne"
+ },
+ {
+   "id":999,
+   "birth":1893,
+   "label":"Richards, I. A."
+ },
+ {
+   "id":1000,
+   "birth":1898,
+   "label":"Rickword, Edgell"
+ },
+ {
+   "id":1001,
+   "birth":1910,
+   "label":"Riddell, Elizabeth"
+ },
+ {
+   "id":1003,
+   "birth":1901,
+   "label":"Riding Laura"
+ },
+ {
+   "id":1006,
+   "birth":1902,
+   "label":"Roberts, Michael"
+ },
+ {
+   "id":1007,
+   "birth":1869,
+   "label":"Robinson, Edwin Arlington"
+ },
+ {
+   "id":1008,
+   "birth":1912,
+   "label":"Robinson, Roland"
+ },
+ {
+   "id":1010,
+   "birth":1909,
+   "label":"Rodgers, W. R."
+ },
+ {
+   "id":1012,
+   "birth":1936,
+   "label":"Rodriguez, Judith"
+ },
+ {
+   "id":1013,
+   "birth":1908,
+   "label":"Roethke, Theodore"
+ },
+ {
+   "id":1014,
+   "birth":1940,
+   "label":"Rogers, Pattiann"
+ },
+ {
+   "id":1015,
+   "birth":1923,
+   "label":"Rolls, Eric (Charles)"
+ },
+ {
+   "id":1016,
+   "birth":1957,
+   "label":"Romer, Stephen"
+ },
+ {
+   "id":1018,
+   "birth":1941,
+   "label":"Root, William Pitt"
+ },
+ {
+   "id":1019,
+   "birth":1955,
+   "label":"Rose, Peter"
+ },
+ {
+   "id":1020,
+   "birth":1890,
+   "label":"Rosenberg, Isaac"
+ },
+ {
+   "id":1021,
+   "birth":1933,
+   "label":"Rosenblatt, Joe (Joseph)"
+ },
+ {
+   "id":1023,
+   "birth":1922,
+   "label":"Ross, Alan"
+ },
+ {
+   "id":1024,
+   "birth":1894,
+   "label":"Ross, W. W. E. (William Wrightson Eustace)"
+ },
+ {
+   "id":1025,
+   "birth":1931,
+   "label":"Rothenberg, Jerome"
+ },
+ {
+   "id":1027,
+   "birth":1924,
+   "label":"Rowbotham, David (Harold)"
+ },
+ {
+   "id":1028,
+   "birth":1925,
+   "label":"Rowland, J. R. (John Russell)"
+ },
+ {
+   "id":1029,
+   "birth":1941,
+   "label":"Ruark, Gibbons"
+ },
+ {
+   "id":1030,
+   "birth":1930,
+   "label":"Rubadiri, David"
+ },
+ {
+   "id":1031,
+   "birth":1913,
+   "label":"Rukeyser, Muriel"
+ },
+ {
+   "id":1032,
+   "birth":1944,
+   "label":"Rumens, Carol (-Ann)"
+ },
+ {
+   "id":1035,
+   "birth":1934,
+   "label":"Rutsala, Vern"
+ },
+ {
+   "id":1036,
+   "birth":1956,
+   "label":"Ryan, Gig (Elizabeth)"
+ },
+ {
+   "id":1037,
+   "birth":1945,
+   "label":"Ryan, Michael"
+ },
+ {
+   "id":1038,
+   "birth":1950,
+   "label":"Sacks, Peter"
+ },
+ {
+   "id":1039,
+   "birth":1892,
+   "label":"Sackville-West, Vita"
+ },
+ {
+   "id":1041,
+   "birth":1942,
+   "label":"Sail, Lawrence"
+ },
+ {
+   "id":1042,
+   "birth":1949,
+   "label":"St John, David"
+ },
+ {
+   "id":1044,
+   "birth":1928,
+   "label":"Salkey, Andrew"
+ },
+ {
+   "id":1045,
+   "birth":1950,
+   "label":"Salom, Philip"
+ },
+ {
+   "id":1047,
+   "birth":1934,
+   "label":"Sanchez, Sonia"
+ },
+ {
+   "id":1048,
+   "birth":1878,
+   "label":"Sandburg, Carl"
+ },
+ {
+   "id":1050,
+   "birth":1950,
+   "label":"Sant, Andrew"
+ },
+ {
+   "id":1053,
+   "birth":1912,
+   "label":"Sarton, (Eleanor) May"
+ },
+ {
+   "id":1054,
+   "birth":1886,
+   "label":"Sassoon, Siegfried (Loraine)"
+ },
+ {
+   "id":1055,
+   "birth":1939,
+   "label":"Scammell, William"
+ },
+ {
+   "id":1056,
+   "birth":1922,
+   "label":"Scannell, Vernon"
+ },
+ {
+   "id":1058,
+   "birth":1947,
+   "label":"Schmidt, Michael"
+ },
+ {
+   "id":1059,
+   "birth":1953,
+   "label":"Schnackenberg, Gjertrud"
+ },
+ {
+   "id":1060,
+   "birth":1913,
+   "label":"Schubert, David"
+ },
+ {
+   "id":1062,
+   "birth":1923,
+   "label":"Schuyler, James"
+ },
+ {
+   "id":1063,
+   "birth":1913,
+   "label":"Schwartz, Delmore"
+ },
+ {
+   "id":1066,
+   "birth":1947,
+   "label":"Scott, David"
+ },
+ {
+   "id":1067,
+   "birth":1939,
+   "label":"Scott, Dennis"
+ },
+ {
+   "id":1068,
+   "birth":1899,
+   "label":"Scott, F. R."
+ },
+ {
+   "id":1070,
+   "birth":1934,
+   "label":"Scott, Margaret"
+ },
+ {
+   "id":1075,
+   "birth":1907,
+   "label":"Scovell, E. J. (Edith Joy)"
+ },
+ {
+   "id":1076,
+   "birth":1933,
+   "label":"Scupham, (John) Peter"
+ },
+ {
+   "id":1079,
+   "birth":1936,
+   "label":"Seidel, Frederick"
+ },
+ {
+   "id":1081,
+   "birth":1943,
+   "label":"Senior, Olive"
+ },
+ {
+   "id":1082,
+   "birth":1932,
+   "label":"Sepamla, Sipho"
+ },
+ {
+   "id":1083,
+   "birth":1944,
+   "label":"Serote, Mongane"
+ },
+ {
+   "id":1084,
+   "birth":1952,
+   "label":"Seth, Vikram"
+ },
+ {
+   "id":1085,
+   "birth":1928,
+   "label":"Sexton, Anne"
+ },
+ {
+   "id":1086,
+   "birth":1914,
+   "label":"Seymour, A. J."
+ },
+ {
+   "id":1090,
+   "birth":1935,
+   "label":"Shapcott, Thomas W."
+ },
+ {
+   "id":1091,
+   "birth":1952,
+   "label":"Shapiro, Alan"
+ },
+ {
+   "id":1092,
+   "birth":1924,
+   "label":"Shapiro, Harvey"
+ },
+ {
+   "id":1093,
+   "birth":1913,
+   "label":"Shapiro, Karl"
+ },
+ {
+   "id":1094,
+   "birth":1953,
+   "label":"Shetty, Manohar"
+ },
+ {
+   "id":1097,
+   "birth":1930,
+   "label":"Silkin, Jon"
+ },
+ {
+   "id":1099,
+   "birth":1938,
+   "label":"Simic, Charles"
+ },
+ {
+   "id":1100,
+   "birth":1933,
+   "label":"Simmons, James"
+ },
+ {
+   "id":1101,
+   "birth":1923,
+   "label":"Simpson, Louis"
+ },
+ {
+   "id":1102,
+   "birth":1929,
+   "label":"Simpson, R. A."
+ },
+ {
+   "id":1103,
+   "birth":1928,
+   "label":"Singer, (James) Burns"
+ },
+ {
+   "id":1106,
+   "birth":1928,
+   "label":"Sissman, L. E."
+ },
+ {
+   "id":1107,
+   "birth":1914,
+   "label":"Sisson, C. H."
+ },
+ {
+   "id":1112,
+   "birth":1925,
+   "label":"Skelton, Robin"
+ },
+ {
+   "id":1113,
+   "birth":1948,
+   "label":"Skovron, Alex"
+ },
+ {
+   "id":1114,
+   "birth":1945,
+   "label":"Skrzynecki, Peter"
+ },
+ {
+   "id":1116,
+   "birth":1953,
+   "label":"Sleigh, Tom"
+ },
+ {
+   "id":1117,
+   "birth":1901,
+   "label":"Slessor, Kenneth"
+ },
+ {
+   "id":1118,
+   "birth":1902,
+   "label":"Smith, A. J. M."
+ },
+ {
+   "id":1119,
+   "birth":1942,
+   "label":"Smith, Dave"
+ },
+ {
+   "id":1120,
+   "birth":1928,
+   "label":"Smith, Iain Crichton"
+ },
+ {
+   "id":1122,
+   "birth":1954,
+   "label":"Smith, Michael"
+ },
+ {
+   "id":1123,
+   "birth":1902,
+   "label":"Smith, Stevie"
+ },
+ {
+   "id":1124,
+   "birth":1915,
+   "label":"Smith, Sydney Goodsir"
+ },
+ {
+   "id":1125,
+   "birth":1933,
+   "label":"Smith, Vivian"
+ },
+ {
+   "id":1126,
+   "birth":1918,
+   "label":"Smith, William Jay"
+ },
+ {
+   "id":1127,
+   "birth":1941,
+   "label":"Smither, Elizabeth"
+ },
+ {
+   "id":1128,
+   "birth":1922,
+   "label":"Smithyman, Kendrick"
+ },
+ {
+   "id":1129,
+   "birth":1926,
+   "label":"Snodgrass, W. D. (William De Witt)"
+ },
+ {
+   "id":1130,
+   "birth":1930,
+   "label":"Snyder, Gary"
+ },
+ {
+   "id":1131,
+   "birth":1895,
+   "label":"Sorley, Charles Hamilton"
+ },
+ {
+   "id":1132,
+   "birth":1952,
+   "label":"Soto, Gary"
+ },
+ {
+   "id":1134,
+   "birth":1921,
+   "label":"Souster, Raymond Holmes"
+ },
+ {
+   "id":1135,
+   "birth":1898,
+   "label":"Soutar, William"
+ },
+ {
+   "id":1138,
+   "birth":1918,
+   "label":"Spark, Muriel"
+ },
+ {
+   "id":1140,
+   "birth":1910,
+   "label":"Spear, Charles"
+ },
+ {
+   "id":1142,
+   "birth":1874,
+   "label":"Spence, Lewis"
+ },
+ {
+   "id":1143,
+   "birth":1909,
+   "label":"Spencer, Bernard"
+ },
+ {
+   "id":1145,
+   "birth":1909,
+   "label":"Spender, Sir Stephen"
+ },
+ {
+   "id":1146,
+   "birth":1925,
+   "label":"Spicer, Jack"
+ },
+ {
+   "id":1148,
+   "birth":1884,
+   "label":"Squire, Sir John"
+ },
+ {
+   "id":1150,
+   "birth":1914,
+   "label":"Stafford, William"
+ },
+ {
+   "id":1151,
+   "birth":1941,
+   "label":"Stainer, Pauline"
+ },
+ {
+   "id":1152,
+   "birth":1935,
+   "label":"Stallworthy, Jon"
+ },
+ {
+   "id":1154,
+   "birth":1916,
+   "label":"Stanford, Ann"
+ },
+ {
+   "id":1155,
+   "birth":1948,
+   "label":"Stanford, Frank"
+ },
+ {
+   "id":1157,
+   "birth":1931,
+   "label":"Starbuck, George"
+ },
+ {
+   "id":1158,
+   "birth":1932,
+   "label":"Stead, C. K. (Christian Karlson)"
+ },
+ {
+   "id":1159,
+   "birth":1939,
+   "label":"Steele, Peter"
+ },
+ {
+   "id":1160,
+   "birth":1948,
+   "label":"Steele, Timothy"
+ },
+ {
+   "id":1162,
+   "birth":1880,
+   "label":"Stephens, James"
+ },
+ {
+   "id":1163,
+   "birth":1925,
+   "label":"Stern, Gerald"
+ },
+ {
+   "id":1164,
+   "birth":1879,
+   "label":"Stevens, Wallace"
+ },
+ {
+   "id":1166,
+   "birth":1913,
+   "label":"Stewart, Douglas"
+ },
+ {
+   "id":1170,
+   "birth":1935,
+   "label":"Stow, Randolph"
+ },
+ {
+   "id":1171,
+   "birth":1934,
+   "label":"Strand, Mark"
+ },
+ {
+   "id":1172,
+   "birth":1933,
+   "label":"Strauss, Jennifer"
+ },
+ {
+   "id":1173,
+   "birth":1924,
+   "label":"Stryk, Lucien"
+ },
+ {
+   "id":1174,
+   "birth":1937,
+   "label":"Stuart, Dabney"
+ },
+ {
+   "id":1175,
+   "birth":1942,
+   "label":"Suknaski, Andrew"
+ },
+ {
+   "id":1178,
+   "birth":1952,
+   "label":"Sweeney, Matthew"
+ },
+ {
+   "id":1180,
+   "birth":1919,
+   "label":"Swenson, May"
+ },
+ {
+   "id":1181,
+   "birth":1909,
+   "label":"Swingler, Randall"
+ },
+ {
+   "id":1182,
+   "birth":1943,
+   "label":"Sykes, Roberta"
+ },
+ {
+   "id":1186,
+   "birth":1948,
+   "label":"Szirtes, George"
+ },
+ {
+   "id":1187,
+   "birth":1922,
+   "label":"Szumigalski, Anne"
+ },
+ {
+   "id":1188,
+   "birth":1894,
+   "label":"Taggard, Genevieve"
+ },
+ {
+   "id":1190,
+   "birth":1899,
+   "label":"Tate, Allen"
+ },
+ {
+   "id":1191,
+   "birth":1943,
+   "label":"Tate, James"
+ },
+ {
+   "id":1192,
+   "birth":1940,
+   "label":"Taylor, Andrew"
+ },
+ {
+   "id":1193,
+   "birth":1920,
+   "label":"Taylor, Eleanor Ross"
+ },
+ {
+   "id":1194,
+   "birth":1942,
+   "label":"Taylor, Henry"
+ },
+ {
+   "id":1195,
+   "birth":1884,
+   "label":"Teasdale, Sara"
+ },
+ {
+   "id":1196,
+   "birth":1902,
+   "label":"Tessimond, A. S. J. (Arthur Seymour John)"
+ },
+ {
+   "id":1197,
+   "birth":1946,
+   "label":"Thesen, Sharon"
+ },
+ {
+   "id":1199,
+   "birth":1935,
+   "label":"Thomas, D. M. (Donald Michael)"
+ },
+ {
+   "id":1200,
+   "birth":1914,
+   "label":"Thomas, Dylan"
+ },
+ {
+   "id":1201,
+   "birth":1878,
+   "label":"Thomas, Edward"
+ },
+ {
+   "id":1203,
+   "birth":1913,
+   "label":"Thomas, R. S. (Ronald Stuart)"
+ },
+ {
+   "id":1205,
+   "birth":1938,
+   "label":"Thompson, John"
+ },
+ {
+   "id":1207,
+   "birth":1956,
+   "label":"Thorpe, Adam"
+ },
+ {
+   "id":1208,
+   "birth":1933,
+   "label":"Thumboo, Edwin"
+ },
+ {
+   "id":1209,
+   "birth":1930,
+   "label":"Thwaite, Anthony"
+ },
+ {
+   "id":1212,
+   "birth":1940,
+   "label":"Tillinghast, Richard"
+ },
+ {
+   "id":1215,
+   "birth":1898,
+   "label":"Tolson, Melvin B."
+ },
+ {
+   "id":1216,
+   "birth":1927,
+   "label":"Tomlinson, Charles"
+ },
+ {
+   "id":1218,
+   "birth":1894,
+   "label":"Toomer, Jean"
+ },
+ {
+   "id":1219,
+   "birth":1875,
+   "label":"Torrence, Ridgely"
+ },
+ {
+   "id":1224,
+   "birth":1943,
+   "label":"Tranter, John"
+ },
+ {
+   "id":1225,
+   "birth":1912,
+   "label":"Treece, Henry"
+ },
+ {
+   "id":1226,
+   "birth":1872,
+   "label":"Trevelyan, R. C."
+ },
+ {
+   "id":1229,
+   "birth":1927,
+   "label":"Tripp, John"
+ },
+ {
+   "id":1230,
+   "birth":1921,
+   "label":"Tsaloumas, Dimitris"
+ },
+ {
+   "id":1231,
+   "birth":1928,
+   "label":"Turnbull, Gael"
+ },
+ {
+   "id":1232,
+   "birth":1944,
+   "label":"Turner, Brian"
+ },
+ {
+   "id":1234,
+   "birth":1884,
+   "label":"Turner, W. J."
+ },
+ {
+   "id":1235,
+   "birth":1922,
+   "label":"Tuwhare, Hone"
+ },
+ {
+   "id":1237,
+   "birth":1950,
+   "label":"Twichell, Chase"
+ },
+ {
+   "id":1239,
+   "birth":1885,
+   "label":"Untermeyer, Louis"
+ },
+ {
+   "id":1240,
+   "birth":1922,
+   "label":"Urdang, Constance"
+ },
+ {
+   "id":1241,
+   "birth":1934,
+   "label":"Valentine, Jean"
+ },
+ {
+   "id":1242,
+   "birth":1894,
+   "label":"Van Doren, Mark"
+ },
+ {
+   "id":1243,
+   "birth":1921,
+   "label":"Van Duyn, Mona"
+ },
+ {
+   "id":1244,
+   "birth":1957,
+   "label":"Van Wyk, Christopher"
+ },
+ {
+   "id":1248,
+   "birth":1916,
+   "label":"Viereck, Peter"
+ },
+ {
+   "id":1250,
+   "birth":1943,
+   "label":"Voigt, Ellen Bryant"
+ },
+ {
+   "id":1252,
+   "birth":1917,
+   "label":"Waddington, Miriam"
+ },
+ {
+   "id":1253,
+   "birth":1926,
+   "label":"Wagoner, David"
+ },
+ {
+   "id":1254,
+   "birth":1939,
+   "label":"Wah, Fred"
+ },
+ {
+   "id":1255,
+   "birth":1925,
+   "label":"Wain, John"
+ },
+ {
+   "id":1256,
+   "birth":1944,
+   "label":"Wainwright, Jeffrey"
+ },
+ {
+   "id":1257,
+   "birth":1937,
+   "label":"Wakoski, Diane"
+ },
+ {
+   "id":1258,
+   "birth":1930,
+   "label":"Walcott, Derek"
+ },
+ {
+   "id":1260,
+   "birth":1920,
+   "label":"Walker, Kath"
+ },
+ {
+   "id":1261,
+   "birth":1934,
+   "label":"Walker, Ted"
+ },
+ {
+   "id":1262,
+   "birth":1945,
+   "label":"Wallace, Bronwen"
+ },
+ {
+   "id":1263,
+   "birth":1934,
+   "label":"Wallace-Crabbe, Chris(topher)"
+ },
+ {
+   "id":1264,
+   "birth":1942,
+   "label":"Wangusa, Timothy"
+ },
+ {
+   "id":1265,
+   "birth":1933,
+   "label":"Wantling, William"
+ },
+ {
+   "id":1267,
+   "birth":1893,
+   "label":"Warner, Sylvia Townsend"
+ },
+ {
+   "id":1268,
+   "birth":1905,
+   "label":"Warren, Robert Penn"
+ },
+ {
+   "id":1269,
+   "birth":1953,
+   "label":"Warren, Rosanna"
+ },
+ {
+   "id":1270,
+   "birth":1906,
+   "label":"Watkins, Vernon"
+ },
+ {
+   "id":1271,
+   "birth":1945,
+   "label":"Wayman, Tom"
+ },
+ {
+   "id":1274,
+   "birth":1920,
+   "label":"Webb, Harri"
+ },
+ {
+   "id":1275,
+   "birth":1927,
+   "label":"Webb, Phyllis"
+ },
+ {
+   "id":1276,
+   "birth":1946,
+   "label":"Wedde, Ian"
+ },
+ {
+   "id":1277,
+   "birth":1916,
+   "label":"Weiss, Theodore"
+ },
+ {
+   "id":1278,
+   "birth":1889,
+   "label":"Wellesley, Dorothy (Violet)"
+ },
+ {
+   "id":1280,
+   "birth":1947,
+   "label":"Wells, Robert"
+ },
+ {
+   "id":1281,
+   "birth":1935,
+   "label":"Wevill, David"
+ },
+ {
+   "id":1282,
+   "birth":1923,
+   "label":"Whalen, Philip"
+ },
+ {
+   "id":1284,
+   "birth":1897,
+   "label":"Wheelwright, John"
+ },
+ {
+   "id":1285,
+   "birth":1925,
+   "label":"Whigham, Peter"
+ },
+ {
+   "id":1287,
+   "birth":1936,
+   "label":"White, Kenneth"
+ },
+ {
+   "id":1290,
+   "birth":1934,
+   "label":"Wieners, John"
+ },
+ {
+   "id":1291,
+   "birth":1941,
+   "label":"Wikkramasinha, Lakdasa"
+ },
+ {
+   "id":1292,
+   "birth":1921,
+   "label":"Wilbur, Richard"
+ },
+ {
+   "id":1294,
+   "birth":1910,
+   "label":"Wilkinson, Anne"
+ },
+ {
+   "id":1295,
+   "birth":1886,
+   "label":"Williams, Charles"
+ },
+ {
+   "id":1297,
+   "birth":1942,
+   "label":"Williams, Hugo"
+ },
+ {
+   "id":1298,
+   "birth":1944,
+   "label":"Williams, John Hartley"
+ },
+ {
+   "id":1300,
+   "birth":1930,
+   "label":"Williams, Miller"
+ },
+ {
+   "id":1302,
+   "birth":1883,
+   "label":"Williams, William Carlos"
+ },
+ {
+   "id":1303,
+   "birth":1945,
+   "label":"Wilmer, Clive"
+ },
+ {
+   "id":1304,
+   "birth":1881,
+   "label":"Wilmot, Frank"
+ },
+ {
+   "id":1308,
+   "birth":1900,
+   "label":"Winters, Yvor"
+ },
+ {
+   "id":1309,
+   "birth":1953,
+   "label":"Wojahn, David"
+ },
+ {
+   "id":1311,
+   "birth":1935,
+   "label":"Wong, Phui Nam"
+ },
+ {
+   "id":1312,
+   "birth":1912,
+   "label":"Woodcock, George"
+ },
+ {
+   "id":1314,
+   "birth":1935,
+   "label":"Wright, Charles"
+ },
+ {
+   "id":1315,
+   "birth":1920,
+   "label":"Wright, David"
+ },
+ {
+   "id":1316,
+   "birth":1927,
+   "label":"Wright, James"
+ },
+ {
+   "id":1317,
+   "birth":1915,
+   "label":"Wright, Judith"
+ },
+ {
+   "id":1318,
+   "birth":1944,
+   "label":"Wright, Kit"
+ },
+ {
+   "id":1319,
+   "birth":1885,
+   "label":"Wylie, Elinor (Morton Hoyt)"
+ },
+ {
+   "id":1320,
+   "birth":1943,
+   "label":"Yap, Arthur"
+ },
+ {
+   "id":1322,
+   "birth":1865,
+   "label":"Yeats, W. B."
+ },
+ {
+   "id":1323,
+   "birth":1885,
+   "label":"Young, Andrew"
+ },
+ {
+   "id":1324,
+   "birth":1913,
+   "label":"Young, Douglas"
+ },
+ {
+   "id":1325,
+   "birth":1938,
+   "label":"Zamora, Bernice"
+ },
+ {
+   "id":1326,
+   "birth":1902,
+   "label":"Zaturenska, Marya"
+ },
+ {
+   "id":1327,
+   "birth":1958,
+   "label":"Zephaniah, Benjamin"
+ },
+ {
+   "id":1328,
+   "birth":1946,
+   "label":"Zieroth, David"
+ },
+ {
+   "id":1329,
+   "birth":1949,
+   "label":"Zimunya, Musaemura"
+ },
+ {
+   "id":1330,
+   "birth":1904,
+   "label":"Zukofsky, Louis"
+ },
+ {
+   "id":1332,
+   "birth":1933,
+   "label":"Zwicky, Fay"
+ },
+ {
+   "id":1333,
+   "birth":1928,
+   "label":"Abrahams, Lionel"
+ },
+ {
+   "id":1334,
+   "birth":1925,
+   "label":"Adnan, Etel"
+ },
+ {
+   "id":1335,
+   "birth":1920,
+   "label":"Afrika, Tatamkhulu"
+ },
+ {
+   "id":1336,
+   "birth":1965,
+   "label":"Agbabi, Patience"
+ },
+ {
+   "id":1338,
+   "birth":1962,
+   "label":"Alexander, Elizabeth"
+ },
+ {
+   "id":1339,
+   "birth":1951,
+   "label":"Alexander, Meena"
+ },
+ {
+   "id":1340,
+   "birth":1966,
+   "label":"Alexie, Sherman"
+ },
+ {
+   "id":1341,
+   "birth":1921,
+   "label":"Allen, Fergus"
+ },
+ {
+   "id":1342,
+   "birth":1949,
+   "label":"Allnutt, Gillian"
+ },
+ {
+   "id":1343,
+   "birth":1954,
+   "label":"Alvi, Moniza"
+ },
+ {
+   "id":1344,
+   "birth":1948,
+   "label":"Anderson, John"
+ },
+ {
+   "id":1345,
+   "birth":1948,
+   "label":"Andrews, Bruce"
+ },
+ {
+   "id":1346,
+   "birth":1932,
+   "label":"Antin, David"
+ },
+ {
+   "id":1347,
+   "birth":1947,
+   "label":"Armantrout, Rae"
+ },
+ {
+   "id":1348,
+   "birth":1962,
+   "label":"Atkins, Tim"
+ },
+ {
+   "id":1349,
+   "birth":1970,
+   "label":"Babstock, Ken"
+ },
+ {
+   "id":1350,
+   "birth":1905,
+   "label":"Bailey, Alfred Goldsworthy"
+ },
+ {
+   "id":1351,
+   "birth":1946,
+   "label":"Bang, Mary Jo"
+ },
+ {
+   "id":1352,
+   "birth":1936,
+   "label":"Baugh, Edward"
+ },
+ {
+   "id":1354,
+   "birth":1962,
+   "label":"Bergvall, Caroline"
+ },
+ {
+   "id":1355,
+   "birth":1939,
+   "label":"Berkson, Bill"
+ },
+ {
+   "id":1356,
+   "birth":1950,
+   "label":"Bernstein, Charles"
+ },
+ {
+   "id":1357,
+   "birth":1948,
+   "label":"Berold, Robert"
+ },
+ {
+   "id":1358,
+   "birth":1956,
+   "label":"Beveridge, Judith"
+ },
+ {
+   "id":1359,
+   "birth":1972,
+   "label":"Bila, Vonani"
+ },
+ {
+   "id":1362,
+   "birth":1934,
+   "label":"Bland, Peter"
+ },
+ {
+   "id":1363,
+   "birth":1925,
+   "label":"Blaser, Robin"
+ },
+ {
+   "id":1364,
+   "birth":1960,
+   "label":"Bletsoe, Elizabeth"
+ },
+ {
+   "id":1365,
+   "birth":1965,
+   "label":"Boey, Kim Cheng"
+ },
+ {
+   "id":1366,
+   "birth":1966,
+   "label":"Bök, Christian"
+ },
+ {
+   "id":1367,
+   "birth":1969,
+   "label":"Bonney, Sean"
+ },
+ {
+   "id":1368,
+   "birth":1960,
+   "label":"Bornholdt, Jenny"
+ },
+ {
+   "id":1369,
+   "birth":1952,
+   "label":"Borson, Roo"
+ },
+ {
+   "id":1370,
+   "birth":1950,
+   "label":"Boruch, Marianne"
+ },
+ {
+   "id":1371,
+   "birth":1974,
+   "label":"Brady, Andrea"
+ },
+ {
+   "id":1372,
+   "birth":1953,
+   "label":"Brand, Dionne"
+ },
+ {
+   "id":1373,
+   "birth":1952,
+   "label":"Brandt, Di"
+ },
+ {
+   "id":1374,
+   "birth":1957,
+   "label":"Breeze, Jean ‘Binta’"
+ },
+ {
+   "id":1375,
+   "birth":1940,
+   "label":"Brodsky, Joseph"
+ },
+ {
+   "id":1376,
+   "birth":1966,
+   "label":"Brown, James"
+ },
+ {
+   "id":1377,
+   "birth":1931,
+   "label":"Brownjohn, Alan"
+ },
+ {
+   "id":1378,
+   "birth":1924,
+   "label":"Brutus, Dennis"
+ },
+ {
+   "id":1379,
+   "birth":1970,
+   "label":"Bryce, Colette"
+ },
+ {
+   "id":1380,
+   "birth":1945,
+   "label":"burns, joanne"
+ },
+ {
+   "id":1381,
+   "birth":1944,
+   "label":"Caddy, Caroline"
+ },
+ {
+   "id":1382,
+   "birth":1912,
+   "label":"Cage, John"
+ },
+ {
+   "id":1385,
+   "birth":1973,
+   "label":"Capildeo, Vahni"
+ },
+ {
+   "id":1386,
+   "birth":1950,
+   "label":"Carson, Anne"
+ },
+ {
+   "id":1387,
+   "birth":1948,
+   "label":"Catling, Brian"
+ },
+ {
+   "id":1388,
+   "birth":1934,
+   "label":"Ceravalo, Joseph"
+ },
+ {
+   "id":1389,
+   "birth":1956,
+   "label":"Charman, Janet"
+ },
+ {
+   "id":1390,
+   "birth":1955,
+   "label":"cheek, cris"
+ },
+ {
+   "id":1391,
+   "birth":1971,
+   "label":"Chiasson, Dan"
+ },
+ {
+   "id":1392,
+   "birth":1955,
+   "label":"Chin, Marilyn"
+ },
+ {
+   "id":1393,
+   "birth":1946,
+   "label":"Chingono, Julius Sekai"
+ },
+ {
+   "id":1394,
+   "birth":1965,
+   "label":"Clanchy, Kate"
+ },
+ {
+   "id":1395,
+   "birth":1944,
+   "label":"Clark, Thomas A."
+ },
+ {
+   "id":1396,
+   "birth":1960,
+   "label":"Clarke, George Elliott"
+ },
+ {
+   "id":1397,
+   "birth":1949,
+   "label":"Clarke, John Cooper"
+ },
+ {
+   "id":1398,
+   "birth":1920,
+   "label":"Cobbing, Bob"
+ },
+ {
+   "id":1399,
+   "birth":1951,
+   "label":"Cochrane, Geoff"
+ },
+ {
+   "id":1400,
+   "birth":1905,
+   "label":"Coffey, Brian"
+ },
+ {
+   "id":1401,
+   "birth":1934,
+   "label":"Cohen, Leonard"
+ },
+ {
+   "id":1402,
+   "birth":1956,
+   "label":"Cole, Henri"
+ },
+ {
+   "id":1403,
+   "birth":1941,
+   "label":"Collins, Billy"
+ },
+ {
+   "id":1404,
+   "birth":1965,
+   "label":"Collis, Stephen"
+ },
+ {
+   "id":1405,
+   "birth":1964,
+   "label":"Coloquhon, Glenn"
+ },
+ {
+   "id":1408,
+   "birth":1962,
+   "label":"Connolly, Kevin"
+ },
+ {
+   "id":1409,
+   "birth":1939,
+   "label":"Coolidge, Clark"
+ },
+ {
+   "id":1410,
+   "birth":1945,
+   "label":"Cope, Wendy"
+ },
+ {
+   "id":1411,
+   "birth":1965,
+   "label":"Corless-Smith, Martin"
+ },
+ {
+   "id":1412,
+   "birth":1962,
+   "label":"Croggon, Alison"
+ },
+ {
+   "id":1413,
+   "birth":1963,
+   "label":"Cronin, M. T. C."
+ },
+ {
+   "id":1414,
+   "birth":1943,
+   "label":"Crozier, Andrew"
+ },
+ {
+   "id":1415,
+   "birth":1954,
+   "label":"Das, Mahadai"
+ },
+ {
+   "id":1416,
+   "birth":1958,
+   "label":"Davies, Kevin"
+ },
+ {
+   "id":1417,
+   "birth":1962,
+   "label":"Dawes, Kwame"
+ },
+ {
+   "id":1418,
+   "birth":1954,
+   "label":"Day, Jean"
+ },
+ {
+   "id":1419,
+   "birth":1958,
+   "label":"Day, Sarah"
+ },
+ {
+   "id":1420,
+   "birth":1951,
+   "label":"de Kok, Ingrid"
+ },
+ {
+   "id":1421,
+   "birth":1943,
+   "label":"Deane, John F."
+ },
+ {
+   "id":1423,
+   "birth":1958,
+   "label":"Delanty, Greg"
+ },
+ {
+   "id":1424,
+   "birth":1939,
+   "label":"Dennis, Carl"
+ },
+ {
+   "id":1425,
+   "birth":1958,
+   "label":"Derksen, Jeff"
+ },
+ {
+   "id":1426,
+   "birth":1941,
+   "label":"Derricotte, Toi"
+ },
+ {
+   "id":1428,
+   "birth":1951,
+   "label":"Dewdney, Christopher"
+ },
+ {
+   "id":1429,
+   "birth":1954,
+   "label":"Dharker, Imtiaz"
+ },
+ {
+   "id":1430,
+   "birth":1963,
+   "label":"Dinh, Linh"
+ },
+ {
+   "id":1431,
+   "birth":1945,
+   "label":"Di Piero, W. S."
+ },
+ {
+   "id":1432,
+   "birth":1969,
+   "label":"Dixon, Isobel"
+ },
+ {
+   "id":1433,
+   "birth":1953,
+   "label":"Doty, Mark"
+ },
+ {
+   "id":1434,
+   "birth":1962,
+   "label":"Dowling, Finuala"
+ },
+ {
+   "id":1435,
+   "birth":1954,
+   "label":"Draycott, Jane"
+ },
+ {
+   "id":1437,
+   "birth":1954,
+   "label":"Duhig, Ian"
+ },
+ {
+   "id":1438,
+   "birth":1941,
+   "label":"DuPlessis, Rachel Blau"
+ },
+ {
+   "id":1439,
+   "birth":1954,
+   "label":"Eady, Cornelius"
+ },
+ {
+   "id":1440,
+   "birth":1935,
+   "label":"Edson, Russell"
+ },
+ {
+   "id":1441,
+   "birth":1952,
+   "label":"Eggleton, David"
+ },
+ {
+   "id":1442,
+   "birth":1929,
+   "label":"Elmslie, Kenward"
+ },
+ {
+   "id":1443,
+   "birth":1947,
+   "label":"Eppel, John"
+ },
+ {
+   "id":1444,
+   "birth":1959,
+   "label":"Evaristo, Bernadine"
+ },
+ {
+   "id":1445,
+   "birth":1958,
+   "label":"Ezenwa-Ohaeto"
+ },
+ {
+   "id":1446,
+   "birth":1965,
+   "label":"Farley, Paul"
+ },
+ {
+   "id":1447,
+   "birth":1902,
+   "label":"Fearing, Kenneth"
+ },
+ {
+   "id":1448,
+   "birth":1943,
+   "label":"Feaver, Vicki"
+ },
+ {
+   "id":1449,
+   "birth":1930,
+   "label":"Feinstein, Elaine"
+ },
+ {
+   "id":1450,
+   "birth":1928,
+   "label":"Feldman, Irving"
+ },
+ {
+   "id":1451,
+   "birth":1940,
+   "label":"Ferguson, Gus"
+ },
+ {
+   "id":1452,
+   "birth":1956,
+   "label":"Finch, Annie"
+ },
+ {
+   "id":1453,
+   "birth":1947,
+   "label":"Finch, Peter"
+ },
+ {
+   "id":1454,
+   "birth":1925,
+   "label":"Finlay, Ian Hamilton"
+ },
+ {
+   "id":1455,
+   "birth":1944,
+   "label":"Fisher, Allen"
+ },
+ {
+   "id":1456,
+   "birth":1974,
+   "label":"Flynn, Leontia"
+ },
+ {
+   "id":1457,
+   "birth":1958,
+   "label":"Fogarty, Lionel G."
+ },
+ {
+   "id":1458,
+   "birth":1955,
+   "label":"Francis, Matthew"
+ },
+ {
+   "id":1459,
+   "birth":1937,
+   "label":"Fraser, Kathleen"
+ },
+ {
+   "id":1461,
+   "birth":1953,
+   "label":"Fuller, William"
+ },
+ {
+   "id":1462,
+   "birth":1952,
+   "label":"Fulton, Alice"
+ },
+ {
+   "id":1463,
+   "birth":1956,
+   "label":"Gander, Forrest"
+ },
+ {
+   "id":1466,
+   "birth":1950,
+   "label":"Giscombe, C. S."
+ },
+ {
+   "id":1467,
+   "birth":1959,
+   "label":"Gizzi, Peter"
+ },
+ {
+   "id":1468,
+   "birth":1961,
+   "label":"Goldsmith, Kenneth"
+ },
+ {
+   "id":1469,
+   "birth":1958,
+   "label":"Goodby, John"
+ },
+ {
+   "id":1470,
+   "birth":1964,
+   "label":"Goodland, Giles"
+ },
+ {
+   "id":1471,
+   "birth":1882,
+   "label":"Gray, Sir Alexander"
+ },
+ {
+   "id":1472,
+   "birth":1962,
+   "label":"Greenlaw, Lavinia"
+ },
+ {
+   "id":1473,
+   "birth":1949,
+   "label":"Greger, Debora"
+ },
+ {
+   "id":1474,
+   "birth":1941,
+   "label":"Grenier, Robert"
+ },
+ {
+   "id":1475,
+   "birth":1941,
+   "label":"Grennan, Eamon"
+ },
+ {
+   "id":1476,
+   "birth":1948,
+   "label":"Griffiths, Bill"
+ },
+ {
+   "id":1477,
+   "birth":1970,
+   "label":"Griffiths, Jane"
+ },
+ {
+   "id":1478,
+   "birth":1964,
+   "label":"Groarke, Vona"
+ },
+ {
+   "id":1480,
+   "birth":1945,
+   "label":"Hall, Bernadette"
+ },
+ {
+   "id":1481,
+   "birth":1945,
+   "label":"Halpern, Daniel"
+ },
+ {
+   "id":1482,
+   "birth":1971,
+   "label":"Hannah, Sophie"
+ },
+ {
+   "id":1483,
+   "birth":1951,
+   "label":"Harjo, Joy"
+ },
+ {
+   "id":1485,
+   "birth":1952,
+   "label":"Harryman, Carla"
+ },
+ {
+   "id":1486,
+   "birth":1947,
+   "label":"Haslam, Michael"
+ },
+ {
+   "id":1487,
+   "birth":1943,
+   "label":"Hawken, Dinah"
+ },
+ {
+   "id":1488,
+   "birth":1936,
+   "label":"Haynes, John"
+ },
+ {
+   "id":1489,
+   "birth":1953,
+   "label":"Hegley, John"
+ },
+ {
+   "id":1490,
+   "birth":1961,
+   "label":"Heighton, Steven"
+ },
+ {
+   "id":1491,
+   "birth":1941,
+   "label":"Hejinian, Lyn"
+ },
+ {
+   "id":1492,
+   "birth":1959,
+   "label":"Henry, Paul"
+ },
+ {
+   "id":1493,
+   "birth":1961,
+   "label":"Herbert, W. N."
+ },
+ {
+   "id":1494,
+   "birth":1948,
+   "label":"Herrera, Juan Felipe"
+ },
+ {
+   "id":1495,
+   "birth":1945,
+   "label":"Hill, Selima"
+ },
+ {
+   "id":1496,
+   "birth":1951,
+   "label":"Hillmann, Brenda"
+ },
+ {
+   "id":1497,
+   "birth":1966,
+   "label":"Hilson, Jeff"
+ },
+ {
+   "id":1498,
+   "birth":1952,
+   "label":"Hippolyte, Kendel"
+ },
+ {
+   "id":1499,
+   "birth":1953,
+   "label":"Hirshfield, Jane"
+ },
+ {
+   "id":1500,
+   "birth":1953,
+   "label":"Hoagland, Tony"
+ },
+ {
+   "id":1501,
+   "birth":1927,
+   "label":"Holden, Molly"
+ },
+ {
+   "id":1502,
+   "birth":1942,
+   "label":"Honnalgere, Gopal"
+ },
+ {
+   "id":1503,
+   "birth":1941,
+   "label":"Hooker, (Peter) Jeremy"
+ },
+ {
+   "id":1504,
+   "birth":1938,
+   "label":"Horovitz, Frances"
+ },
+ {
+   "id":1505,
+   "birth":1935,
+   "label":"Horovitz, Michael"
+ },
+ {
+   "id":1506,
+   "birth":1969,
+   "label":"Hoskote, Ranjit"
+ },
+ {
+   "id":1507,
+   "birth":1924,
+   "label":"Houédard, Dom Sylvester"
+ },
+ {
+   "id":1508,
+   "birth":1941,
+   "label":"Houston, Libby"
+ },
+ {
+   "id":1509,
+   "birth":1940,
+   "label":"Howe, Fanny"
+ },
+ {
+   "id":1510,
+   "birth":1937,
+   "label":"Howe, Susan"
+ },
+ {
+   "id":1511,
+   "birth":1914,
+   "label":"Howes, Barbara"
+ },
+ {
+   "id":1512,
+   "birth":1927,
+   "label":"Hutchinson, Pearse"
+ },
+ {
+   "id":1515,
+   "birth":1939,
+   "label":"James, John"
+ },
+ {
+   "id":1516,
+   "birth":1962,
+   "label":"Jamie, Kathleen"
+ },
+ {
+   "id":1517,
+   "birth":1952,
+   "label":"Jarman, Mark"
+ },
+ {
+   "id":1518,
+   "birth":1967,
+   "label":"Jarnot, Lisa"
+ },
+ {
+   "id":1519,
+   "birth":1939,
+   "label":"Jensma, Wopko"
+ },
+ {
+   "id":1521,
+   "birth":1955,
+   "label":"Johnson, Kent"
+ },
+ {
+   "id":1522,
+   "birth":1935,
+   "label":"Johnson, Ronald"
+ },
+ {
+   "id":1523,
+   "birth":1963,
+   "label":"Johnston, Andrew"
+ },
+ {
+   "id":1524,
+   "birth":1951,
+   "label":"Jones, Jill"
+ },
+ {
+   "id":1525,
+   "birth":1936,
+   "label":"Jordan, June"
+ },
+ {
+   "id":1526,
+   "birth":1966,
+   "label":"Joseph, Anthony"
+ },
+ {
+   "id":1527,
+   "birth":1932,
+   "label":"Joseph, Jenny"
+ },
+ {
+   "id":1528,
+   "birth":1947,
+   "label":"Joyce, Trevor"
+ },
+ {
+   "id":1529,
+   "birth":1936,
+   "label":"Kantaris, Sylvia"
+ },
+ {
+   "id":1530,
+   "birth":1961,
+   "label":"Kasischke, Laura"
+ },
+ {
+   "id":1531,
+   "birth":1961,
+   "label":"Kay, Jackie"
+ },
+ {
+   "id":1532,
+   "birth":1951,
+   "label":"Kelly, Brigit Pegeen"
+ },
+ {
+   "id":1533,
+   "birth":1982,
+   "label":"Kennard, Luke"
+ },
+ {
+   "id":1534,
+   "birth":1922,
+   "label":"Kerouac, Jack"
+ },
+ {
+   "id":1535,
+   "birth":1938,
+   "label":"Kgositsile, Keorapetse"
+ },
+ {
+   "id":1536,
+   "birth":1944,
+   "label":"Khalvati, Mimi"
+ },
+ {
+   "id":1537,
+   "birth":1971,
+   "label":"King, Amy"
+ },
+ {
+   "id":1538,
+   "birth":1963,
+   "label":"Kinsella, John"
+ },
+ {
+   "id":1539,
+   "birth":1944,
+   "label":"Kinzie, Mary"
+ },
+ {
+   "id":1540,
+   "birth":1949,
+   "label":"Kleinzahler, August"
+ },
+ {
+   "id":1541,
+   "birth":1947,
+   "label":"Kocan, Peter"
+ },
+ {
+   "id":1542,
+   "birth":1939,
+   "label":"Kooser, Ted"
+ },
+ {
+   "id":1544,
+   "birth":1921,
+   "label":"Kumar, Shiv K."
+ },
+ {
+   "id":1545,
+   "birth":1951,
+   "label":"Kuppner, Frank"
+ },
+ {
+   "id":1546,
+   "birth":1938,
+   "label":"Langley, R. F."
+ },
+ {
+   "id":1548,
+   "birth":1946,
+   "label":"Larkin, Peter"
+ },
+ {
+   "id":1549,
+   "birth":1922,
+   "label":"Larkin, Philip"
+ },
+ {
+   "id":1550,
+   "birth":1942,
+   "label":"Lauterbach, Ann"
+ },
+ {
+   "id":1551,
+   "birth":1957,
+   "label":"Lawrence, Anthony"
+ },
+ {
+   "id":1552,
+   "birth":1957,
+   "label":"Lee, Li-Young"
+ },
+ {
+   "id":1554,
+   "birth":1956,
+   "label":"Leggott, Michele"
+ },
+ {
+   "id":1555,
+   "birth":1979,
+   "label":"Lerner, Ben"
+ },
+ {
+   "id":1556,
+   "birth":1959,
+   "label":"Lewis, Gwyneth"
+ },
+ {
+   "id":1557,
+   "birth":1959,
+   "label":"Liardet, Tim"
+ },
+ {
+   "id":1558,
+   "birth":1950,
+   "label":"Lilburn, Tim(othy)"
+ },
+ {
+   "id":1559,
+   "birth":1952,
+   "label":"Lindsay, Graham"
+ },
+ {
+   "id":1560,
+   "birth":1965,
+   "label":"Liu, Timothy"
+ },
+ {
+   "id":1561,
+   "birth":1938,
+   "label":"Lo Liyong, Taban"
+ },
+ {
+   "id":1562,
+   "birth":1950,
+   "label":"Lopez, Tony"
+ },
+ {
+   "id":1563,
+   "birth":1966,
+   "label":"Lumsden, Roddy"
+ },
+ {
+   "id":1564,
+   "birth":1948,
+   "label":"Lynch, Thomas"
+ },
+ {
+   "id":1565,
+   "birth":1947,
+   "label":"McCaffery, Steve"
+ },
+ {
+   "id":1566,
+   "birth":1933,
+   "label":"McDonald, Ian"
+ },
+ {
+   "id":1567,
+   "birth":1962,
+   "label":"McGimpsey, David"
+ },
+ {
+   "id":1568,
+   "birth":1937,
+   "label":"McGough, Roger"
+ },
+ {
+   "id":1569,
+   "birth":1894,
+   "label":"MacGreevy, Thomas"
+ },
+ {
+   "id":1570,
+   "birth":1950,
+   "label":"McGuckian, Medbh"
+ },
+ {
+   "id":1571,
+   "birth":1948,
+   "label":"McHugh, Heather"
+ },
+ {
+   "id":1572,
+   "birth":1942,
+   "label":"McKay, Don(ald)"
+ },
+ {
+   "id":1573,
+   "birth":1955,
+   "label":"McKendrick, Jamie"
+ },
+ {
+   "id":1574,
+   "birth":1947,
+   "label":"Mackey, Nathaniel"
+ },
+ {
+   "id":1575,
+   "birth":1925,
+   "label":"Mackie, Alastair"
+ },
+ {
+   "id":1576,
+   "birth":1903,
+   "label":"Macleod, Joseph"
+ },
+ {
+   "id":1577,
+   "birth":1922,
+   "label":"Mac Low, Jackson"
+ },
+ {
+   "id":1578,
+   "birth":1949,
+   "label":"McQueen, Cilla"
+ },
+ {
+   "id":1579,
+   "birth":1948,
+   "label":"MacSweeney, Barry"
+ },
+ {
+   "id":1580,
+   "birth":1957,
+   "label":"Maguire, Sarah"
+ },
+ {
+   "id":1581,
+   "birth":1936,
+   "label":"Major, Clarence"
+ },
+ {
+   "id":1582,
+   "birth":1969,
+   "label":"Manson, Peter"
+ },
+ {
+   "id":1583,
+   "birth":1945,
+   "label":"Mapanje, Jack"
+ },
+ {
+   "id":1585,
+   "birth":1964,
+   "label":"Mattawa, Khaled"
+ },
+ {
+   "id":1586,
+   "birth":1945,
+   "label":"Mayer, Bernadette"
+ },
+ {
+   "id":1587,
+   "birth":1955,
+   "label":"Meehan, Paula"
+ },
+ {
+   "id":1588,
+   "birth":1956,
+   "label":"Metelerkamp, Joan"
+ },
+ {
+   "id":1589,
+   "birth":1978,
+   "label":"Miller, Kei"
+ },
+ {
+   "id":1590,
+   "birth":1964,
+   "label":"Milne, Drew"
+ },
+ {
+   "id":1591,
+   "birth":1967,
+   "label":"Minter, Peter"
+ },
+ {
+   "id":1592,
+   "birth":1962,
+   "label":"Mishra, Sudesh"
+ },
+ {
+   "id":1594,
+   "birth":1942,
+   "label":"Molloy, Dorothy"
+ },
+ {
+   "id":1595,
+   "birth":1952,
+   "label":"Monk, Geraldine"
+ },
+ {
+   "id":1596,
+   "birth":1964,
+   "label":"Moolman, Kobus"
+ },
+ {
+   "id":1597,
+   "birth":1970,
+   "label":"Morgan, Esther"
+ },
+ {
+   "id":1598,
+   "birth":1947,
+   "label":"Moritz, A. F."
+ },
+ {
+   "id":1599,
+   "birth":1964,
+   "label":"Morley, David"
+ },
+ {
+   "id":1600,
+   "birth":1931,
+   "label":"Morris, John N."
+ },
+ {
+   "id":1601,
+   "birth":1972,
+   "label":"Morrissey, Sinéad"
+ },
+ {
+   "id":1603,
+   "birth":1964,
+   "label":"Moxley, Jennifer"
+ },
+ {
+   "id":1604,
+   "birth":1941,
+   "label":"Mulford, Wendy"
+ },
+ {
+   "id":1605,
+   "birth":1953,
+   "label":"Mullen, Harryette"
+ },
+ {
+   "id":1606,
+   "birth":1952,
+   "label":"Nair, Rukmini Bhaya"
+ },
+ {
+   "id":1611,
+   "birth":1945,
+   "label":"Notley, Alice"
+ },
+ {
+   "id":1612,
+   "birth":1949,
+   "label":"Nurkse, D."
+ },
+ {
+   "id":1613,
+   "birth":1945,
+   "label":"Nwankwo, Chimalum"
+ },
+ {
+   "id":1614,
+   "birth":1952,
+   "label":"Nye, Naomi Shihab"
+ },
+ {
+   "id":1615,
+   "birth":1967,
+   "label":"Nyezwa, Mxolisi"
+ },
+ {
+   "id":1616,
+   "birth":1968,
+   "label":"O’Callaghan, Conor"
+ },
+ {
+   "id":1617,
+   "birth":1945,
+   "label":"O’Donoghue, Bernard"
+ },
+ {
+   "id":1618,
+   "birth":1954,
+   "label":"O’Driscoll, Denis"
+ },
+ {
+   "id":1619,
+   "birth":1937,
+   "label":"Oliver, Douglas"
+ },
+ {
+   "id":1620,
+   "birth":1941,
+   "label":"Ormsby, Eric"
+ },
+ {
+   "id":1621,
+   "birth":1949,
+   "label":"Orr, Bob (Robert)"
+ },
+ {
+   "id":1622,
+   "birth":1951,
+   "label":"O’Sullivan, Maggie"
+ },
+ {
+   "id":1623,
+   "birth":1966,
+   "label":"Oswald, Alice"
+ },
+ {
+   "id":1625,
+   "birth":1946,
+   "label":"Padel, Ruth"
+ },
+ {
+   "id":1626,
+   "birth":1972,
+   "label":"Pang, Alvin"
+ },
+ {
+   "id":1627,
+   "birth":1963,
+   "label":"Paterson, Don"
+ },
+ {
+   "id":1628,
+   "birth":1946,
+   "label":"Patten, Brian"
+ },
+ {
+   "id":1629,
+   "birth":1930,
+   "label":"Peacocke, Meg"
+ },
+ {
+   "id":1630,
+   "birth":1941,
+   "label":"Peck, John (Frederick)"
+ },
+ {
+   "id":1631,
+   "birth":1947,
+   "label":"Perelman, Bob (Robert)"
+ },
+ {
+   "id":1632,
+   "birth":1953,
+   "label":"Petit, Pascale"
+ },
+ {
+   "id":1633,
+   "birth":1947,
+   "label":"Philip, Marlene Nourbese"
+ },
+ {
+   "id":1634,
+   "birth":1959,
+   "label":"Phillips, Carl"
+ },
+ {
+   "id":1635,
+   "birth":1954,
+   "label":"Pitt-Kethley, Fiona"
+ },
+ {
+   "id":1636,
+   "birth":1968,
+   "label":"Place, Vanessa"
+ },
+ {
+   "id":1637,
+   "birth":1939,
+   "label":"Plumly, Stanley"
+ },
+ {
+   "id":1638,
+   "birth":1954,
+   "label":"Porter, Dorothy (Featherstone)"
+ },
+ {
+   "id":1639,
+   "birth":1885,
+   "label":"Pound, Ezra (Loomis)"
+ },
+ {
+   "id":1640,
+   "birth":1963,
+   "label":"Powell, D. A."
+ },
+ {
+   "id":1641,
+   "birth":1952,
+   "label":"Presley, Frances"
+ },
+ {
+   "id":1642,
+   "birth":1956,
+   "label":"Press, Karen"
+ },
+ {
+   "id":1643,
+   "birth":1966,
+   "label":"Price, Richard"
+ },
+ {
+   "id":1644,
+   "birth":1950,
+   "label":"Pugh, Sheenah"
+ },
+ {
+   "id":1645,
+   "birth":1968,
+   "label":"Quinn, Justin"
+ },
+ {
+   "id":1646,
+   "birth":1963,
+   "label":"Rahim, Jennifer"
+ },
+ {
+   "id":1647,
+   "birth":1908,
+   "label":"Raine, Kathleen"
+ },
+ {
+   "id":1648,
+   "birth":1961,
+   "label":"Raji, Remi"
+ },
+ {
+   "id":1649,
+   "birth":1950,
+   "label":"Ramakrishnan, E. V."
+ },
+ {
+   "id":1650,
+   "birth":1965,
+   "label":"Rampolokeng, Lesego"
+ },
+ {
+   "id":1651,
+   "birth":1963,
+   "label":"Rankine, Claudia"
+ },
+ {
+   "id":1652,
+   "birth":1965,
+   "label":"Rao, Mani"
+ },
+ {
+   "id":1653,
+   "birth":1925,
+   "label":"Rayaprol, Srinivas"
+ },
+ {
+   "id":1654,
+   "birth":1932,
+   "label":"Redgrove, Peter"
+ },
+ {
+   "id":1655,
+   "birth":1968,
+   "label":"Rees-Jones, Deryn"
+ },
+ {
+   "id":1656,
+   "birth":1941,
+   "label":"Retallack, Joan"
+ },
+ {
+   "id":1657,
+   "birth":1912,
+   "label":"Ridler, Anne"
+ },
+ {
+   "id":1658,
+   "birth":1948,
+   "label":"Riley, Denise"
+ },
+ {
+   "id":1659,
+   "birth":1937,
+   "label":"Riley, John"
+ },
+ {
+   "id":1660,
+   "birth":1940,
+   "label":"Riley, Peter"
+ },
+ {
+   "id":1661,
+   "birth":1953,
+   "label":"Riordan, Maurice"
+ },
+ {
+   "id":1662,
+   "birth":1915,
+   "label":"Roach, Eric"
+ },
+ {
+   "id":1663,
+   "birth":1909,
+   "label":"Roberts, Lynette"
+ },
+ {
+   "id":1664,
+   "birth":1961,
+   "label":"Robertson, Lisa"
+ },
+ {
+   "id":1665,
+   "birth":1955,
+   "label":"Robertson, Robin"
+ },
+ {
+   "id":1666,
+   "birth":1953,
+   "label":"Robinson, Peter"
+ },
+ {
+   "id":1667,
+   "birth":1940,
+   "label":"Rodefer, Stephen"
+ },
+ {
+   "id":1668,
+   "birth":1970,
+   "label":"Rohrer, Matthew"
+ },
+ {
+   "id":1669,
+   "birth":1948,
+   "label":"Rudman, Mark"
+ },
+ {
+   "id":1670,
+   "birth":1952,
+   "label":"Ruefle, Mary"
+ },
+ {
+   "id":1671,
+   "birth":1945,
+   "label":"Ryan, Kay"
+ },
+ {
+   "id":1672,
+   "birth":1964,
+   "label":"Ryan, Tracy"
+ },
+ {
+   "id":1673,
+   "birth":1945,
+   "label":"Sadoff, Ira"
+ },
+ {
+   "id":1675,
+   "birth":1958,
+   "label":"Sallah, Tijan Momodou"
+ },
+ {
+   "id":1676,
+   "birth":1954,
+   "label":"Salter, Mary Jo"
+ },
+ {
+   "id":1677,
+   "birth":1968,
+   "label":"Sampson, Fiona"
+ },
+ {
+   "id":1678,
+   "birth":1963,
+   "label":"Samuels, Lisa"
+ },
+ {
+   "id":1680,
+   "birth":1949,
+   "label":"Sarah, Robyn"
+ },
+ {
+   "id":1681,
+   "birth":1943,
+   "label":"Saroyan, Aram"
+ },
+ {
+   "id":1682,
+   "birth":1947,
+   "label":"Scalapino, Leslie"
+ },
+ {
+   "id":1683,
+   "birth":1935,
+   "label":"Schulman, Grace"
+ },
+ {
+   "id":1684,
+   "birth":1973,
+   "label":"Schwartzman, Adam"
+ },
+ {
+   "id":1686,
+   "birth":1948,
+   "label":"Scott, John A."
+ },
+ {
+   "id":1687,
+   "birth":1910,
+   "label":"Scott, Winfield Townley"
+ },
+ {
+   "id":1688,
+   "birth":1957,
+   "label":"Seboni, Barolong"
+ },
+ {
+   "id":1689,
+   "birth":1953,
+   "label":"Shapcott, Jo"
+ },
+ {
+   "id":1690,
+   "birth":1947,
+   "label":"Shuttle, Penelope"
+ },
+ {
+   "id":1691,
+   "birth":1948,
+   "label":"Silko, Leslie Marmon"
+ },
+ {
+   "id":1692,
+   "birth":1946,
+   "label":"Silliman, Ron"
+ },
+ {
+   "id":1693,
+   "birth":1939,
+   "label":"Simms, Colin"
+ },
+ {
+   "id":1694,
+   "birth":1960,
+   "label":"Sirr, Peter"
+ },
+ {
+   "id":1695,
+   "birth":1967,
+   "label":"Sissay, Lemn"
+ },
+ {
+   "id":1696,
+   "birth":1887,
+   "label":"Sitwell, Dame Edith"
+ },
+ {
+   "id":1697,
+   "birth":1967,
+   "label":"Skoulding, Zoë"
+ },
+ {
+   "id":1698,
+   "birth":1938,
+   "label":"Smith, Ken(neth John)"
+ },
+ {
+   "id":1699,
+   "birth":1961,
+   "label":"Smith, Simon"
+ },
+ {
+   "id":1700,
+   "birth":1951,
+   "label":"Sole, Kelwyn"
+ },
+ {
+   "id":1701,
+   "birth":1966,
+   "label":"Solie, Karen"
+ },
+ {
+   "id":1702,
+   "birth":1941,
+   "label":"Solway, David"
+ },
+ {
+   "id":1703,
+   "birth":1955,
+   "label":"Song, Cathy"
+ },
+ {
+   "id":1704,
+   "birth":1934,
+   "label":"Soyinka, Wole"
+ },
+ {
+   "id":1705,
+   "birth":1966,
+   "label":"Spahr, Juliana"
+ },
+ {
+   "id":1706,
+   "birth":1926,
+   "label":"Sparshott, Francis"
+ },
+ {
+   "id":1707,
+   "birth":1952,
+   "label":"Spires, Elizabeth"
+ },
+ {
+   "id":1708,
+   "birth":1962,
+   "label":"Sprackland, Jean"
+ },
+ {
+   "id":1709,
+   "birth":1954,
+   "label":"Stammers, John"
+ },
+ {
+   "id":1711,
+   "birth":1969,
+   "label":"Stefans, Brian Kim"
+ },
+ {
+   "id":1712,
+   "birth":1874,
+   "label":"Stein, Gertrude"
+ },
+ {
+   "id":1713,
+   "birth":1933,
+   "label":"Stevenson, Anne"
+ },
+ {
+   "id":1714,
+   "birth":1952,
+   "label":"Stewart, Susan"
+ },
+ {
+   "id":1715,
+   "birth":1915,
+   "label":"Stone, Ruth"
+ },
+ {
+   "id":1716,
+   "birth":1966,
+   "label":"Strang, Catriona"
+ },
+ {
+   "id":1717,
+   "birth":1967,
+   "label":"Sullivan, Robert"
+ },
+ {
+   "id":1719,
+   "birth":1959,
+   "label":"Surendran, C.P."
+ },
+ {
+   "id":1720,
+   "birth":1976,
+   "label":"Sutherland, Keston"
+ },
+ {
+   "id":1721,
+   "birth":1955,
+   "label":"Swensen, Cole"
+ },
+ {
+   "id":1722,
+   "birth":1966,
+   "label":"Swift, Todd"
+ },
+ {
+   "id":1723,
+   "birth":1963,
+   "label":"Symmons Roberts, Michael"
+ },
+ {
+   "id":1724,
+   "birth":1950,
+   "label":"Sze, Arthur Jiazhang"
+ },
+ {
+   "id":1725,
+   "birth":1959,
+   "label":"Thayil, Jeet"
+ },
+ {
+   "id":1726,
+   "birth":1949,
+   "label":"Tipping, Richard"
+ },
+ {
+   "id":1727,
+   "birth":1975,
+   "label":"Toh, Hsien Min"
+ },
+ {
+   "id":1728,
+   "birth":1932,
+   "label":"Tonks, Rosemary"
+ },
+ {
+   "id":1729,
+   "birth":1941,
+   "label":"Torrance, Chris"
+ },
+ {
+   "id":1730,
+   "birth":1966,
+   "label":"Trethewey, Natasha"
+ },
+ {
+   "id":1731,
+   "birth":1927,
+   "label":"Trimpi, Helen"
+ },
+ {
+   "id":1732,
+   "birth":1943,
+   "label":"Turner, Frederick"
+ },
+ {
+   "id":1733,
+   "birth":1948,
+   "label":"Vidiikas, Vicki"
+ },
+ {
+   "id":1734,
+   "birth":1944,
+   "label":"Violi, Paul"
+ },
+ {
+   "id":1735,
+   "birth":1967,
+   "label":"Volkman, Karen"
+ },
+ {
+   "id":1736,
+   "birth":1969,
+   "label":"Wagner, Catherine"
+ },
+ {
+   "id":1737,
+   "birth":1945,
+   "label":"Waldman, Anne"
+ },
+ {
+   "id":1738,
+   "birth":1935,
+   "label":"Waldrop, Rosmarie"
+ },
+ {
+   "id":1739,
+   "birth":1964,
+   "label":"Walsh, Catherine"
+ },
+ {
+   "id":1740,
+   "birth":1954,
+   "label":"Watson, Stephen"
+ },
+ {
+   "id":1741,
+   "birth":1948,
+   "label":"Watten, Barrett"
+ },
+ {
+   "id":1742,
+   "birth":1948,
+   "label":"Wearne, Alan"
+ },
+ {
+   "id":1743,
+   "birth":1951,
+   "label":"Weaver, Afaa M."
+ },
+ {
+   "id":1744,
+   "birth":1925,
+   "label":"Webb, Francis"
+ },
+ {
+   "id":1745,
+   "birth":1928,
+   "label":"Weiner, Hannah"
+ },
+ {
+   "id":1746,
+   "birth":1944,
+   "label":"Welish, Marjorie"
+ },
+ {
+   "id":1748,
+   "birth":1939,
+   "label":"Wendt, Albert"
+ },
+ {
+   "id":1749,
+   "birth":1970,
+   "label":"Wheatley, David"
+ },
+ {
+   "id":1750,
+   "birth":1955,
+   "label":"Wheeler, Susan"
+ },
+ {
+   "id":1751,
+   "birth":1945,
+   "label":"Whitworth, John"
+ },
+ {
+   "id":1752,
+   "birth":1884,
+   "label":"Wickham, Anna"
+ },
+ {
+   "id":1753,
+   "birth":1947,
+   "label":"Wicks, Susan"
+ },
+ {
+   "id":1754,
+   "birth":1953,
+   "label":"Wilkinson, John"
+ },
+ {
+   "id":1755,
+   "birth":1936,
+   "label":"Williams, C. K."
+ },
+ {
+   "id":1756,
+   "birth":1929,
+   "label":"Williams, Jonathan"
+ },
+ {
+   "id":1757,
+   "birth":1961,
+   "label":"Willis, Elizabeth"
+ },
+ {
+   "id":1758,
+   "birth":1966,
+   "label":"Wiman, Christian"
+ },
+ {
+   "id":1759,
+   "birth":1906,
+   "label":"Wingfield, Sheila"
+ },
+ {
+   "id":1760,
+   "birth":1977,
+   "label":"Wong, Cyril"
+ },
+ {
+   "id":1761,
+   "birth":1949,
+   "label":"Wright, C. D."
+ },
+ {
+   "id":1762,
+   "birth":1953,
+   "label":"Wright, Franz"
+ },
+ {
+   "id":1763,
+   "birth":1934,
+   "label":"Wright, Jay"
+ },
+ {
+   "id":1764,
+   "birth":1950,
+   "label":"Yau, John"
+ },
+ {
+   "id":1765,
+   "birth":1966,
+   "label":"Yong, Shu Hoong"
+ },
+ {
+   "id":1766,
+   "birth":1955,
+   "label":"Young, Dean"
+ },
+ {
+   "id":1767,
+   "birth":1970,
+   "label":"Young, Kevin"
+ },
+ {
+   "id":1768,
+   "birth":1955,
+   "label":"Yu, Ouyang"
+ },
+ {
+   "id":1769,
+   "birth":1967,
+   "label":"Zapruder, Matthew"
+ },
+ {
+   "id":1770,
+   "birth":1968,
+   "label":"Zolf, Rachel"
+ },
+ {
+   "id":1771,
+   "birth":1955,
+   "label":"Zwicky, Jan"
+ },
+ {
+   "id":1772,
+   "birth":1962,
+   "label":"McDonald, Peter"
+ },
+ {
+   "id":1773,
+   "birth":1956,
+   "label":"Healy, Randolph"
+ },
+ {
+   "id":1774,
+   "birth":1969,
+   "label":"Mlinko, Ange"
+ },
+ {
+   "id":1775,
+   "birth":1938,
+   "label":"Mudrooroo"
+ },
+ {
+   "id":1776,
+   "birth":1961,
+   "label":"O’Brien, Gregory"
+ },
+ {
+   "id":1777,
+   "birth":1935,
+   "label":"Sobin, Gustaf"
+ },
+ {
+   "id":1778,
+   "birth":1959,
+   "label":"Kinloch, David"
+ }
+],
 [
  {
    "id":1,
@@ -16716,3 +23602,5 @@
    "weight":0.77
  }
 ]
+}
+}
