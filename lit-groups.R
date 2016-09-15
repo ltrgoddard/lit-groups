@@ -9,9 +9,6 @@ V(g)$birthdate = as.character(b$birthdate[match(V(g)$name, b$ident)])
 l <- read.csv("data/labels.csv")
 V(g)$name = as.character(l$name[match(V(g)$name, l$ident)])
 
-# set label font size
-V(g)$label.cex <- 0.5
-
 # define main parameters
 step_limit <- 3
 lower_limit <- 5
@@ -95,12 +92,15 @@ wtt <- algo(chr, cutoff, "walktrap", step_limit, lower_limit)
 #output figures for article
 pdf(file = "figs/full.pdf")
 plot(g, layout = layout.drl, vertex.label = NA, vertex.size = 0.01, edge.width = E(g)$weight / 2)
-pdf(file = "figs/chrono.pdf")
-plot(wei, layout = layout.fruchterman.reingold, vertex.size = 0.01, edge.width = E(wei)$weight)
-pdf(file = "figs/loose.pdf")
-plot(wtl, layout=layout.fruchterman.reingold, vertex.size=0.01, edge.width = E(wei)$weight)
-pdf(file = "figs/tight.pdf")
-plot(wtt, layout=layout.fruchterman.reingold, vertex.size=0.01, edge.width = E(wei)$weight)
+
+normal_plot <- function(graph, file_name) {
+    pdf(file = paste("figs/", file_name, sep = ""))
+    plot(graph, layout = layout.fruchterman.reingold, vertex.size = 0.01, label.cex = 0.5, edge.width = E(graph)$weight / 2)
+}
+
+normal_plot(wei, "chrono.pdf")
+normal_plot(wtl, "loose.pdf")
+normal_plot(wtt, "tight.pdf")
 dev.off()
 
 # output optimisation table
